@@ -10,6 +10,6 @@
     "togeojson": "^0.10.1"
   },
   "scripts": {
-    "postinstall": "node node_modules/.bin/gulp"
+    "postinstall": "node node_modules/.bin/gulp default"
   }
 }
