@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>苗栗溺水.kmz</name>
+	<open>1</open>
+	<Style id="sh_nail3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail16">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="sn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sn_ylw-pushpin141</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail17">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail8">
+		<IconStyle>
+			<color>ffffffaa</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nail13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nail8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_nail13">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail11">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_nail16">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail7">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nail11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nail17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail8">
+		<IconStyle>
+			<color>ffffffaa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail18">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail12">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail14">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail15">
+		<IconStyle>
+			<color>ffffffaa</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail17">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail15">
+		<IconStyle>
+			<color>ffffffaa</color>
+			<scale>2.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nail4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin140">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_nail15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail18">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail7">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin141">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_nail14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_nail6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_nail1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail12">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail11">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail14">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_nail4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_nail6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_nail13">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_nail16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_nail16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_nail16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>溺水地點</name>
+		<StyleMap id="msn_nail18">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_nail18</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_nail18</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<description><![CDATA[士林水壩(2月1人死亡, 7月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail1</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.936605,24.344091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[苗栗縣西湖鄉下埔村9鄰53號附近池塘(4月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail2</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.759822222222,24.5213499999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[中港溪(新明營造場附近)捕魚途中溺斃(5月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail3</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.911111111111,24.6819444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[苑裡鎮苑港里觀海樓旁南防坡堤(5月2人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail4</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.646255555555,24.4594055555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[大湖溪大湖二橋與大湖溪湖忠橋下游約200公尺(6月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail5</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.862505,24.422046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[苗栗縣竹南鎮龍鳳漁港北岸(6月1人死亡, 1人獲救)。</b>]]></description>
+			<styleUrl>#msn_nail6</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.858561111111,24.7036805555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[明德水庫(6月1人死亡, 10月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail7</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.8933333,24.5888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[苗栗縣後龍鎮水尾里海邊水尾滯洪池(6月1人獲救)。</b>]]></description>
+			<styleUrl>#msn_nail8</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.762291666666,24.6271777777777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[竹南鎮龍鳳漁港旁水溝(7月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail9</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.860916666666,24.6998888888888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[西湖鄉二湖村4鄰11號附近100公尺堤防邊溪流(8月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail10</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.751944444444,24.5758333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[東西向快速道路苗栗往銅鑼方向17.5公里處西方河床(8月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail11</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.798055555555,24.4608333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[後龍鎮埔頂里頂東路旁產業道路(8月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail12</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.828638888888,24.6217777777777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[後龍鎮中二高橋下(8月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail13</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.794944444444,24.6063333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[苑裡鎮苑港漁港(9月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail14</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.645888888888,24.4584944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[後龍龍津漁港西濱橋下(10月1人獲救, 12月3人獲救)。</b>]]></description>
+			<styleUrl>#msn_nail15</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.792035833333,24.6136638888888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[竹南鎮龍鳳漁港(11月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail16</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.857960319421,24.6992063874714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[竹南鎮運動公園蓮花池內(11月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail17</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.888619422912,24.6898378623687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[台三線景山橋下鯉魚潭水庫(12月1人死亡)。</b>]]></description>
+			<styleUrl>#msn_nail18</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>120.827013888888,24.3427888888888,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>地名</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<StyleMap id="msn_info-i7">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_info-i6</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_info-i3</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Folder>
+	<Folder>
+		<name>邊界</name>
+		<Style id="sn_ylw-pushpin11">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00ffffff</color>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>苗栗縣苗栗市</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8158706819711,24.52961976455861,0 120.8128233312283,24.52688702319838,0 120.8087483047871,24.52722726841945,0 120.8006116335297,24.52739731143982,0 120.7937928550718,24.52112433557015,0 120.7904191892677,24.51872927926912,0 120.788253746279,24.51892940682071,0 120.7881849581541,24.51893833827204,0 120.7878829907101,24.51905754861443,0 120.7877567340495,24.5191296037316,0 120.7876840107424,24.51918593126765,0 120.7876151009866,24.51926709492629,0 120.7875286730051,24.51940466372281,0 120.7887986228537,24.52662055243054,0 120.791986127963,24.54635764565662,0 120.7919969658828,24.54810926535044,0 120.7919941178309,24.5482469513845,0 120.7914956602286,24.5526139862194,0 120.7895541118107,24.55934231671357,0 120.7895091450355,24.55948220119597,0 120.7894045266741,24.55968971952116,0 120.7874610565407,24.56330982527845,0 120.787388497703,24.56343612712273,0 120.7873544624528,24.56349476832422,0 120.7872905973148,24.56358948133792,0 120.7872200948976,24.56368644029629,0 120.7871307546611,24.56379240491568,0 120.7870606174519,24.56385550792056,0 120.7783927023931,24.56933255874666,0 120.7804265838098,24.58192852553041,0 120.7804513117592,24.5819917634994,0 120.7804760499929,24.58205048643188,0 120.7819932105786,24.58463042339869,0 120.784286559142,24.58770353269124,0 120.7845349998638,24.58785737802655,0 120.793136027936,24.58840439730727,0 120.8005858511576,24.59041659250689,0 120.8027485353138,24.5940309769477,0 120.807196041502,24.59902742806401,0 120.8072757780786,24.59905010100425,0 120.8073868464771,24.5990660436161,0 120.8081892690379,24.59911898458354,0 120.8219140796011,24.59744970860395,0 120.8388600799038,24.58959564722979,0 120.8389331008004,24.58956186463912,0 120.8394004126044,24.5893366438841,0 120.8394857897492,24.58929158875398,0 120.8406716481049,24.58866534310397,0 120.840764289948,24.58860901166428,0 120.8408604861368,24.58855042639467,0 120.8410510212028,24.58843325152496,0 120.8411044450591,24.58839944937108,0 120.8411490703065,24.58837015297137,0 120.8429007478925,24.58706506363274,0 120.8437205664404,24.58647678276649,0 120.8439328030894,24.58627159842798,0 120.8440801888957,24.58610923094125,0 120.8441387431105,24.58604383198584,0 120.8441714974212,24.58600549446139,0 120.8442042568977,24.58596489722276,0 120.8444692807549,24.58561530239526,0 120.8446073119066,24.58540552536307,0 120.8447224973929,24.58520700791589,0 120.8447600809226,24.58513030162808,0 120.8447881133156,24.58504455537575,0 120.8450042365137,24.58418703736529,0 120.8450724038047,24.58383046606721,0 120.8450865505679,24.58374244792838,0 120.8451032328605,24.58347385851004,0 120.8451297352886,24.57697761564949,0 120.8451186075552,24.57649230284489,0 120.8450590747412,24.57547649255301,0 120.8450405723901,24.57534104132304,0 120.845017259606,24.57523267114274,0 120.8415150111854,24.56054806647885,0 120.8396210505898,24.55902920897801,0 120.8395555645982,24.55897496498338,0 120.8394923974067,24.55891621054233,0 120.8394269230268,24.55885293854643,0 120.8374519345557,24.55669291666046,0 120.8373960301034,24.55662739655475,0 120.8373547577528,24.55657543525051,0 120.8372131125556,24.55637213249339,0 120.8371790917031,24.55632243650732,0 120.8371547750867,24.55627952360529,0 120.8371209193922,24.55621854228787,0 120.8363602772908,24.55388826410562,0 120.8358473568909,24.55144990272775,0 120.8358371675937,24.55133703004739,0 120.8358096940831,24.55111579202811,0 120.835800977813,24.55105709529477,0 120.8357645942039,24.55092613595442,0 120.8357452501341,24.55085839967446,0 120.8352451932944,24.5495689790465,0 120.8351885892251,24.54945154049206,0 120.8351561303688,24.54938604513972,0 120.8350997791738,24.54930923814348,0 120.8350451179668,24.54923920559084,0 120.8350024519589,24.54919401469449,0 120.8158706819711,24.52961976455861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣苑裡鎮</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.7047481536866,24.43635368347172,0 120.7060718536377,24.43625831604008,0 120.7061328887939,24.43626594543452,0 120.706205368042,24.43629264831542,0 120.7063808441162,24.43636894226071,0 120.7064342498779,24.43640327453613,0 120.7066020965576,24.43647193908689,0 120.7066631317139,24.43648719787597,0 120.7067928314209,24.4365062713623,0 120.7068958282471,24.43651390075685,0 120.7069606781006,24.43649864196777,0 120.7106990814209,24.43456459045408,0 120.7108325958252,24.43449592590332,0 120.7111148834228,24.43433570861819,0 120.7112064361572,24.43427085876461,0 120.7113437652587,24.43415260314946,0 120.7113857269287,24.43410301208495,0 120.711431503296,24.43405342102054,0 120.7202053070069,24.42152214050292,0 120.7275714874267,24.41148948669432,0 120.7302227020263,24.40973854064945,0 120.7363605499267,24.40751075744629,0 120.7484188079834,24.40469551086422,0 120.7475299835205,24.4007396697998,0 120.7474765777588,24.40058708190922,0 120.7474536895752,24.40052986145019,0 120.7474308013916,24.40047645568851,0 120.7473888397216,24.40041923522947,0 120.7473201751708,24.4003391265869,0 120.7421321868897,24.39408302307132,0 120.7364101409913,24.38689613342284,0 120.7348651885986,24.38489723205565,0 120.7325801849366,24.38084983825688,0 120.7294597625732,24.37479591369629,0 120.7290782928466,24.37009239196774,0 120.7278881072998,24.36315727233886,0 120.7243404388428,24.35410499572754,0 120.7182598114014,24.35583305358889,0 120.7072925567627,24.35787010192866,0 120.6909198760987,24.37189674377438,0 120.6773052215576,24.38455390930179,0 120.6713466644287,24.39105796813961,0 120.6657276153565,24.40027809143068,0 120.6642398834228,24.40172386169438,0 120.6638889312744,24.40206336975098,0 120.6636219024658,24.40231513977047,0 120.6626453399658,24.40310859680175,0 120.6621074676514,24.40354728698735,0 120.6582012176514,24.40660285949703,0 120.6579990386963,24.40672111511228,0 120.6569805145263,24.40712928771973,0 120.6568851470947,24.40716361999515,0 120.6568431854248,24.40714836120607,0 120.6554431915284,24.40736961364742,0 120.6538333892821,24.40772056579591,0 120.6537799835205,24.407735824585,0 120.6518955230713,24.40832328796382,0 120.6492176055908,24.40955162048343,0 120.645658493042,24.41303062438964,0 120.6434650421142,24.41555213928226,0 120.642915725708,24.41687583923342,0 120.6393070220947,24.42799949645995,0 120.6390972137451,24.4280948638916,0 120.6388263702393,24.42823982238773,0 120.6326999664307,24.43199348449704,0 120.6323375701904,24.43225288391117,0 120.6320934295654,24.4324245452881,0 120.6318912506104,24.43262290954593,0 120.6294116973877,24.4361553192139,0 120.6209354400634,24.44052696228029,0 120.6316623687744,24.44748878479005,0 120.6430721282958,24.45857048034673,0 120.6477069854737,24.46268272399898,0 120.6477794647217,24.46274757385257,0 120.6486797332764,24.46307563781735,0 120.6494388580323,24.4633083343506,0 120.6495494842529,24.46333503723148,0 120.6555347442627,24.46168327331543,0 120.6556148529053,24.46166038513183,0 120.6558475494384,24.46158027648926,0 120.6784267425537,24.45253562927248,0 120.6785449981689,24.45247840881344,0 120.6798801422119,24.45181083679196,0 120.6799907684326,24.45174598693846,0 120.6801242828369,24.45165061950682,0 120.6801738739013,24.45160484313968,0 120.6803035736084,24.45148658752443,0 120.6817684173584,24.44983482360838,0 120.684175491333,24.44703865051266,0 120.6841831207275,24.44693946838384,0 120.6844272613526,24.4457378387451,0 120.6844997406006,24.44548225402834,0 120.6845302581787,24.44542121887203,0 120.6845722198486,24.44536781311036,0 120.6846027374268,24.44534111022946,0 120.6846904754639,24.44527626037598,0 120.6872577667236,24.44362068176267,0 120.6873874664307,24.44355201721191,0 120.6922702789306,24.44163322448728,0 120.6928653717041,24.44143867492674,0 120.693510055542,24.44055747985837,0 120.6953792572022,24.43948936462406,0 120.702844619751,24.43653678894046,0 120.7047481536866,24.43635368347172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣通霄鎮</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.759801864624,24.47884941101074,0 120.7520389556885,24.46320533752442,0 120.7523670196533,24.4627056121826,0 120.753812789917,24.46010780334468,0 120.7542362213135,24.45911979675294,0 120.754301071167,24.45889854431151,0 120.7560253143311,24.45034217834476,0 120.7560520172119,24.45020103454587,0 120.7560596466065,24.45011329650876,0 120.7560520172119,24.45005226135254,0 120.7547130584717,24.44105720520018,0 120.7546863555908,24.44091987609867,0 120.7546520233154,24.44074821472164,0 120.7546291351319,24.44065666198727,0 120.7519207000732,24.4306812286377,0 120.7512836456299,24.42840003967286,0 120.7521076202393,24.42549705505368,0 120.7521076202393,24.42523384094238,0 120.7514476776123,24.40894889831545,0 120.7514400482178,24.40890693664548,0 120.7514324188232,24.40886116027833,0 120.7509708404541,24.40777015686033,0 120.7509212493896,24.40767478942869,0 120.7508144378663,24.40748023986813,0 120.7507724761963,24.40742301940918,0 120.7507152557373,24.40734672546389,0 120.7496967315674,24.4061031341553,0 120.7495822906494,24.40595817565915,0 120.7493686676026,24.40571022033692,0 120.7492923736572,24.40562248229983,0 120.7484188079834,24.40469551086422,0 120.7363605499267,24.40751075744629,0 120.7302227020263,24.40973854064945,0 120.7275714874267,24.41148948669432,0 120.7202053070069,24.42152214050292,0 120.711431503296,24.43405342102054,0 120.7113857269287,24.43410301208495,0 120.7113437652587,24.43415260314946,0 120.7112064361572,24.43427085876461,0 120.7111148834228,24.43433570861819,0 120.7108325958252,24.43449592590332,0 120.7106990814209,24.43456459045408,0 120.7069606781006,24.43649864196777,0 120.7068958282471,24.43651390075685,0 120.7067928314209,24.4365062713623,0 120.7066631317139,24.43648719787597,0 120.7066020965576,24.43647193908689,0 120.7064342498779,24.43640327453613,0 120.7063808441162,24.43636894226071,0 120.706205368042,24.43629264831542,0 120.7061328887939,24.43626594543452,0 120.7060718536377,24.43625831604008,0 120.7047481536866,24.43635368347172,0 120.702844619751,24.43653678894046,0 120.6953792572022,24.43948936462406,0 120.693510055542,24.44055747985837,0 120.6928653717041,24.44143867492674,0 120.6922702789306,24.44163322448728,0 120.6873874664307,24.44355201721191,0 120.6872577667236,24.44362068176267,0 120.6846904754639,24.44527626037598,0 120.6846027374268,24.44534111022946,0 120.6845722198486,24.44536781311036,0 120.6845302581787,24.44542121887203,0 120.6844997406006,24.44548225402834,0 120.6844272613526,24.4457378387451,0 120.6841831207275,24.44693946838384,0 120.684175491333,24.44703865051266,0 120.6817684173584,24.44983482360838,0 120.6803035736084,24.45148658752443,0 120.6801738739013,24.45160484313968,0 120.6801242828369,24.45165061950682,0 120.6799907684326,24.45174598693846,0 120.6798801422119,24.45181083679196,0 120.6785449981689,24.45247840881344,0 120.6784267425537,24.45253562927248,0 120.6558475494384,24.46158027648926,0 120.6556148529053,24.46166038513183,0 120.6555347442627,24.46168327331543,0 120.6495494842529,24.46333503723148,0 120.6494388580323,24.4633083343506,0 120.6486797332764,24.46307563781735,0 120.6477794647217,24.46274757385257,0 120.6477069854737,24.46268272399898,0 120.6552524566651,24.47251319885251,0 120.6684093475342,24.49447059631346,0 120.67893409729,24.51015663146976,0 120.6865825653076,24.52231025695799,0 120.686990737915,24.523099899292,0 120.7030086517334,24.56161308288574,0 120.7080707550049,24.57356834411624,0 120.7164630889892,24.57272911071781,0 120.7193393707276,24.57069587707521,0 120.7270336151123,24.56001853942873,0 120.7385730743408,24.53269767761228,0 120.7391948699951,24.53104591369632,0 120.7496662139893,24.50824546813967,0 120.7588748931885,24.49178886413572,0 120.7632923126221,24.48723411560058,0 120.759801864624,24.47884941101074,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣竹南鎮</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9085287429205,24.74059044522242,0 120.9123965073879,24.73163854958431,0 120.912615587181,24.73111952510527,0 120.9186116286347,24.7165686177506,0 120.9342610717681,24.71314312039691,0 120.9242810214606,24.70462206824735,0 120.9241992016784,24.7045791388776,0 120.9241204597344,24.70454975600005,0 120.9216581857024,24.70369076009568,0 120.9215732705902,24.70366137265751,0 120.9214505173046,24.70363648036226,0 120.921331158188,24.70361610255642,0 120.9212210627633,24.70359798701509,0 120.9065536042917,24.70261446773849,0 120.9063683032291,24.70260306694787,0 120.9062878480135,24.70260075704804,0 120.9059851781388,24.70259605493886,0 120.9058906718406,24.70259599570561,0 120.9054692330207,24.70261153112772,0 120.9053887716822,24.7026205104093,0 120.9043728168155,24.70280946995349,0 120.9043011510251,24.70282522237339,0 120.9041908718301,24.7028544972766,0 120.9040177114129,24.70291758778204,0 120.9038426923214,24.7029897046953,0 120.9029022276234,24.70340442162445,0 120.902833928487,24.70345854858229,0 120.902816463249,24.70347659505496,0 120.9028042401667,24.70350593021628,0 120.9028006614458,24.70353978596782,0 120.9028023430451,24.703564615142,0 120.8987902113235,24.7043045785013,0 120.8978200343995,24.70419783187305,0 120.8886304257062,24.70311010394825,0 120.888313889254,24.70307149565995,0 120.8882496585677,24.70305790505833,0 120.8867758146689,24.70272273691193,0 120.88671112876,24.70270237500733,0 120.88665694464,24.70268201663519,0 120.8859527787325,24.70232936632054,0 120.885926540844,24.70231128859919,0 120.885647009952,24.70199732550366,0 120.8854758023596,24.70177599097385,0 120.884632691595,24.7005519529526,0 120.8843937021409,24.69965566765577,0 120.8843727952732,24.69955407732967,0 120.8802870226374,24.67960637667058,0 120.8763664573939,24.65325724406854,0 120.8761717345983,24.64925958799153,0 120.8761778359586,24.64901807212103,0 120.8762301514491,24.64887365635145,0 120.8764196317258,24.6484765449192,0 120.8765655778007,24.64824191644396,0 120.876773602669,24.64797799544283,0 120.8768248986632,24.64792837879053,0 120.8768720069144,24.64789907192089,0 120.8769479743502,24.64787430587185,0 120.8765659972468,24.64765955752599,0 120.8764252896498,24.64759172750359,0 120.8762913576694,24.64754195864771,0 120.8761706612152,24.64753057389946,0 120.8760232559827,24.6475236798662,0 120.8758690532107,24.6475235526104,0 120.8757818341542,24.64753025309785,0 120.8756813060677,24.64757305615458,0 120.8755538935141,24.6476406673293,0 120.8754196541218,24.64774438636497,0 120.8699345887881,24.65218641971269,0 120.8697892043509,24.65231043938331,0 120.8696748741497,24.65240965760442,0 120.8695347074362,24.65256076729167,0 120.8692958360208,24.65292622603371,0 120.8689111454118,24.6536797942227,0 120.8684374706427,24.6546432055742,0 120.8681757209389,24.65518018682256,0 120.8401535407663,24.66573696873964,0 120.8291392911998,24.6723451839838,0 120.8292325475718,24.67290732906504,0 120.8295634508537,24.67366612021726,0 120.8302559160687,24.67512730604569,0 120.830572966212,24.67574838912984,0 120.8332434823311,24.67981205795785,0 120.8337362034407,24.68047847247361,0 120.8339534798188,24.68068411685087,0 120.8467670334336,24.69047586544868,0 120.8576933261539,24.69862911175576,0 120.857824500275,24.69872218454568,0 120.8580277109698,24.69896524445965,0 120.8580735944143,24.69902225627447,0 120.8590925677236,24.70113223432533,0 120.861073276622,24.70634874929723,0 120.861539970108,24.70759965899056,0 120.8622824997537,24.71052564570579,0 120.8623491366707,24.71087782529608,0 120.8626142423519,24.71332485229214,0 120.86971699351,24.72743854017419,0 120.8785232286737,24.73523092323611,0 120.8813751969934,24.73341843966905,0 120.8909496383977,24.73177571339173,0 120.8910338180097,24.73177577458927,0 120.8957167986715,24.73285351982748,0 120.8972280994359,24.73336694289856,0 120.8974255761938,24.73346639224501,0 120.8986952571748,24.73423920883901,0 120.8989539955183,24.73441770302041,0 120.9014311952222,24.73630634838646,0 120.9019381452446,24.73691160184599,0 120.9031310576494,24.73835922685999,0 120.903767321079,24.73895327226886,0 120.9058629518531,24.74068133864827,0 120.9059804705585,24.74072655554311,0 120.9063562324667,24.74081933670258,0 120.9073412836447,24.74105469446884,0 120.9075993806276,24.74109096916994,0 120.9077991252392,24.74107303446662,0 120.9082822298309,24.74077086936416,0 120.9084414168204,24.7406603630224,0 120.9085287429205,24.74059044522242,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣頭份鎮</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9422054415293,24.707309318897,0 120.9423271337402,24.70730710603715,0 120.9424991644992,24.70732071485007,0 120.942662541986,24.7073456076403,0 120.944062508386,24.70758539787499,0 120.9441443480412,24.70760348614498,0 120.9442423997098,24.7076283506993,0 120.9450223297829,24.70786338530521,0 120.9451142019319,24.70789501951452,0 120.9451836673298,24.70796050355217,0 120.9453082032326,24.70817498052915,0 120.9453489384959,24.70825399899044,0 120.9453922912881,24.70834881649469,0 120.9737844042082,24.71187766736975,0 120.9750250129946,24.71100886559212,0 120.9750940574032,24.71095695903707,0 120.9751617120851,24.71089151380312,0 120.9752258204522,24.71080575049013,0 120.9752797353341,24.71071772797303,0 120.9754124527367,24.71043108932884,0 120.9757769201869,24.70962984679083,0 120.9758044221142,24.70955762227673,0 120.9766780112948,24.70646993352565,0 120.9764204880324,24.68314185874904,0 120.9770097274864,24.67364819734412,0 120.9600634917661,24.67887907836081,0 120.9586921372776,24.67937529079498,0 120.9586447388568,24.67937076273901,0 120.953622886778,24.67839193169905,0 120.9491579953992,24.67517624442943,0 120.9456345426486,24.67181179342266,0 120.9416912165017,24.66343160467999,0 120.9288594791254,24.66275117361373,0 120.9285268794642,24.66287741880306,0 120.9281291479462,24.6629788038826,0 120.9280764985631,24.6629900640505,0 120.9220253939987,24.66276132534209,0 120.9219003619292,24.66273868968447,0 120.9217324263318,24.6627024865279,0 120.9216237646426,24.66267082913049,0 120.9214459887657,24.66256916368635,0 120.921085359214,24.66233422655322,0 120.9209997187089,24.6622709800363,0 120.9208352344028,24.6621444904375,0 120.9106758617591,24.65380522130369,0 120.9106232893901,24.65371490271118,0 120.9106068042586,24.65366749172484,0 120.9106105951278,24.65354560585286,0 120.9116097972972,24.64631187026944,0 120.9089601103899,24.63994272591229,0 120.9037851689373,24.63243429995458,0 120.9030186475547,24.63133229203394,0 120.89864048978,24.62701588672431,0 120.8983275488893,24.62676738341668,0 120.8965817782734,24.62541864018405,0 120.8916426569679,24.62534744652977,0 120.8912682542238,24.6253449210289,0 120.8909358224525,24.62535145073688,0 120.8908747063192,24.62535366393095,0 120.8907408804849,24.62537839512431,0 120.8905689226367,24.6254166435753,0 120.8880916988301,24.62618904282687,0 120.8806930189134,24.6316074187786,0 120.8804678293144,24.63177878718109,0 120.878397217327,24.63370703463338,0 120.8783256907725,24.63377695321115,0 120.8781998489671,24.6339912825513,0 120.8781472731933,24.6340973300825,0 120.8781311833157,24.63413343292268,0 120.8771996623284,24.63784351406535,0 120.8765555130221,24.64435049749032,0 120.8769479743502,24.64787430587185,0 120.8768720069144,24.64789907192089,0 120.8768248986632,24.64792837879053,0 120.876773602669,24.64797799544283,0 120.8765655778007,24.64824191644396,0 120.8764196317258,24.6484765449192,0 120.8762301514491,24.64887365635145,0 120.8761778359586,24.64901807212103,0 120.8761717345983,24.64925958799153,0 120.8763664573939,24.65325724406854,0 120.8802870226374,24.67960637667058,0 120.8843727952732,24.69955407732967,0 120.8843937021409,24.69965566765577,0 120.884632691595,24.7005519529526,0 120.8854758023596,24.70177599097385,0 120.885647009952,24.70199732550366,0 120.885926540844,24.70231128859919,0 120.8859527787325,24.70232936632054,0 120.88665694464,24.70268201663519,0 120.88671112876,24.70270237500733,0 120.8867758146689,24.70272273691193,0 120.8882496585677,24.70305790505833,0 120.888313889254,24.70307149565995,0 120.8886304257062,24.70311010394825,0 120.8978200343995,24.70419783187305,0 120.8987902113235,24.7043045785013,0 120.9028023430451,24.703564615142,0 120.9028006614458,24.70353978596782,0 120.9028042401667,24.70350593021628,0 120.902816463249,24.70347659505496,0 120.902833928487,24.70345854858229,0 120.9029022276234,24.70340442162445,0 120.9038426923214,24.7029897046953,0 120.9040177114129,24.70291758778204,0 120.9041908718301,24.7028544972766,0 120.9043011510251,24.70282522237339,0 120.9043728168155,24.70280946995349,0 120.9053887716822,24.7026205104093,0 120.9054692330207,24.70261153112772,0 120.9058906718406,24.70259599570561,0 120.9059851781388,24.70259605493886,0 120.9062878480135,24.70260075704804,0 120.9063683032291,24.70260306694787,0 120.9065536042917,24.70261446773849,0 120.9212210627633,24.70359798701509,0 120.921331158188,24.70361610255642,0 120.9214505173046,24.70363648036226,0 120.9215732705902,24.70366137265751,0 120.9216581857024,24.70369076009568,0 120.9241204597344,24.70454975600005,0 120.9241992016784,24.7045791388776,0 120.9242810214606,24.70462206824735,0 120.9342610717681,24.71314312039691,0 120.9354208753687,24.71259738696363,0 120.936083503157,24.71151196659359,0 120.9378570053822,24.70973405243672,0 120.9385301938884,24.70908426063476,0 120.9387514123597,24.70893763355157,0 120.9388950796009,24.70884740541327,0 120.9390263849981,24.70877297021092,0 120.9397278509921,24.70838727647601,0 120.9398265554029,24.70833765773908,0 120.9417354554645,24.70742425196486,0 120.9418180925578,24.70738816846068,0 120.941918333447,24.70735435140839,0 120.9420611935975,24.70732957636496,0 120.9422054415293,24.707309318897,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣後龍鎮</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8291392911998,24.6723451839838,0 120.8401535407663,24.66573696873964,0 120.8392920985303,24.66332988702275,0 120.8390012464022,24.66261178757085,0 120.8389383019322,24.66246048697337,0 120.8388636252728,24.66230917595099,0 120.8387013067234,24.66200428018068,0 120.8386344654314,24.66188232064016,0 120.8385400413476,24.66171970071624,0 120.8354788587009,24.65696047648837,0 120.825611212193,24.64380345032063,0 120.8255691464362,24.6437514853642,0 120.8255110458824,24.64368596110111,0 120.823789144242,24.64199782492395,0 120.8237359686926,24.64194584861066,0 120.8227719001762,24.64117726689052,0 120.8190984091549,24.63044442995834,0 120.8263324212063,24.62510113209826,0 120.8302916186478,24.62062284734607,0 120.8341070933757,24.61491411692426,0 120.8344148595401,24.61158958931204,0 120.8343761744655,24.61155343298424,0 120.8343361035298,24.61151501760083,0 120.8343029858222,24.61146983730399,0 120.8342437096322,24.61136819457074,0 120.8321849527133,24.6072577967171,0 120.832104630086,24.6070884193083,0 120.8320674473527,24.60696874452382,0 120.8320762921314,24.60693263843086,0 120.8346741390278,24.60381379509099,0 120.8347262173698,24.60375516545518,0 120.8347705501006,24.60371909814641,0 120.839754340305,24.60327530288027,0 120.8390351857133,24.60106472459976,0 120.8398215115359,24.59608390103701,0 120.843257017555,24.59311250949308,0 120.8435097518121,24.59285770911903,0 120.8435513369344,24.59279455035219,0 120.8437689933204,24.59245845088402,0 120.8446067763484,24.59109144488577,0 120.8446391155208,24.59101473328397,0 120.8446614171733,24.59094703924089,0 120.8446871294034,24.59086580792277,0 120.8447063541759,24.59078908059198,0 120.8447142803475,24.59074394479084,0 120.8447192521833,24.59059045996697,0 120.8447395825745,24.58824298073508,0 120.8447286606637,24.58808947728717,0 120.844720753903,24.58799692362483,0 120.8447080567815,24.58790888007834,0 120.8446543049113,24.58758378439702,0 120.8446352453293,24.58752507776183,0 120.8445903298585,24.58741668539483,0 120.8445204620459,24.58727215118367,0 120.8444026211825,24.58712079479553,0 120.8443611774747,24.58707335263111,0 120.8443134182476,24.58701912915926,0 120.8441138845206,24.58680674356037,0 120.8438987431588,24.5866169146103,0 120.8437205664404,24.58647678276649,0 120.8429007478925,24.58706506363274,0 120.8411490703065,24.58837015297137,0 120.8411044450591,24.58839944937108,0 120.8410510212028,24.58843325152496,0 120.8408604861368,24.58855042639467,0 120.840764289948,24.58860901166428,0 120.8406716481049,24.58866534310397,0 120.8394857897492,24.58929158875398,0 120.8394004126044,24.5893366438841,0 120.8389331008004,24.58956186463912,0 120.8388600799038,24.58959564722979,0 120.8219140796011,24.59744970860395,0 120.8081892690379,24.59911898458354,0 120.8073868464771,24.5990660436161,0 120.8072757780786,24.59905010100425,0 120.807196041502,24.59902742806401,0 120.8027485353138,24.5940309769477,0 120.8005858511576,24.59041659250689,0 120.793136027936,24.58840439730727,0 120.7845349998638,24.58785737802655,0 120.784286559142,24.58770353269124,0 120.7819932105786,24.58463042339869,0 120.7804760499929,24.58205048643188,0 120.7804513117592,24.5819917634994,0 120.7804265838098,24.58192852553041,0 120.7783927023931,24.56933255874666,0 120.7668270220942,24.58065759118855,0 120.7529644653857,24.58124042607842,0 120.7528791606016,24.58123577110253,0 120.7470230895555,24.57905461607385,0 120.7443323060176,24.57751517078706,0 120.7345151716728,24.56849869928101,0 120.7270311293324,24.56001853177831,0 120.7193400971987,24.57069680495086,0 120.7164625531247,24.57272741797293,0 120.7080704724393,24.57356686973153,0 120.7110868373173,24.58170087769071,0 120.7145778602503,24.59051513523491,0 120.7175840240087,24.59778221496853,0 120.7232609663646,24.6056590963118,0 120.7245905544268,24.60716482705358,0 120.7251965427861,24.60764897411264,0 120.7261987695552,24.60821510173174,0 120.7275856403994,24.60873677360872,0 120.7330759465929,24.61069908676274,0 120.735245003605,24.61140490789468,0 120.7369961829965,24.61182555898997,0 120.7433406024222,24.61068534252001,0 120.7433822952374,24.6106718685555,0 120.7435246654371,24.61062471226915,0 120.7436777836954,24.61052791327962,0 120.7438589658262,24.61029121587093,0 120.7439104050169,24.61011298624342,0 120.7440798519444,24.60942257214199,0 120.7440870387041,24.60937969601445,0 120.7474901147076,24.60964502331147,0 120.7579312582876,24.61283479827119,0 120.7589609877328,24.61322569178173,0 120.7591277644263,24.61348553994622,0 120.7592382595662,24.61404775640166,0 120.7592887122265,24.61663232939435,0 120.7591880686481,24.61866139083508,0 120.7589343382893,24.62157276816089,0 120.7611424830299,24.63858876475939,0 120.7612004868777,24.63884843278176,0 120.7614923500315,24.6393387089688,0 120.7616758384741,24.63959857578717,0 120.7628021241313,24.64106076107237,0 120.7664408930943,24.64529417464229,0 120.7798189882929,24.66029533126301,0 120.7925980806674,24.66338780299522,0 120.8106733292857,24.66762583796546,0 120.8208694004647,24.66864730244975,0 120.8218791782705,24.66856724398154,0 120.8218960051825,24.66856725519141,0 120.8238283885762,24.66869594506112,0 120.8253971679847,24.66885126702032,0 120.8262244606819,24.66899668671367,0 120.8287149818809,24.66955707345681,0 120.8291392911998,24.6723451839838,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣卓蘭鎮</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9081972659536,24.36423123181586,0 120.9098479204512,24.35559810124685,0 120.9098647601051,24.35530917774128,0 120.9098588889727,24.3548983499654,0 120.9098305022608,24.3545349074693,0 120.9096438024239,24.35287343154731,0 120.9095930356633,24.3525799546614,0 120.9091993991508,24.35131112453261,0 120.9083115243367,24.34865376004318,0 120.9072076796271,24.34615201250525,0 120.9069792570996,24.34580650741573,0 120.9068692779947,24.34563714373994,0 120.9056485636664,24.34132722041398,0 120.905542600873,24.34094115875054,0 120.9055151150598,24.34083730493913,0 120.9054491393362,24.34030905865729,0 120.9046459797616,24.32835844176407,0 120.9052621371336,24.32466137793041,0 120.9072935661587,24.321658170783,0 120.9081667723001,24.32024111655216,0 120.9119017406828,24.31298159937374,0 120.9142285660246,24.30836449375599,0 120.914336170248,24.3079108373186,0 120.9144588348958,24.30427890614164,0 120.9144323318125,24.30385903367018,0 120.913909423129,24.3022312220558,0 120.9136550269782,24.30145682229317,0 120.9098185361713,24.2939738866282,0 120.905871165335,24.29260807874024,0 120.8896036319789,24.29414789994901,0 120.8816199886139,24.29488228525189,0 120.880297679474,24.29495799729654,0 120.8790820434588,24.29502700990976,0 120.8787595553569,24.29503804100294,0 120.8782652828067,24.29504667407081,0 120.8775025607672,24.2950550915202,0 120.8761117135014,24.2950065582247,0 120.8748990250868,24.29489495884305,0 120.8721958359506,24.29433966731748,0 120.8695730319253,24.2937776304663,0 120.8688645208125,24.29361449408945,0 120.8681429535934,24.29342651148271,0 120.8668381842684,24.29307323567198,0 120.8665732146948,24.29298496928924,0 120.8657250941359,24.2926839984879,0 120.8616634774486,24.29097383274429,0 120.8577954439687,24.28926825713572,0 120.8572247261157,24.2891097106454,0 120.8565137430067,24.28899391781301,0 120.8552699206893,24.28884827047197,0 120.8548146766402,24.28880269043578,0 120.8517879168425,24.28859660929412,0 120.8505454047688,24.28852315959304,0 120.8498983337367,24.28851575118218,0 120.8494633436012,24.28852660681217,0 120.847269281318,24.2885966503912,0 120.8469507945358,24.28861890395411,0 120.8381446480922,24.28927794037092,0 120.8377058985011,24.28933616388928,0 120.8373962894871,24.28939452218925,0 120.8366641910658,24.28955400593627,0 120.8361690110998,24.28968439711838,0 120.8343602118895,24.29021290161579,0 120.8335604008957,24.29047387392144,0 120.8333660553134,24.29054815349236,0 120.8331411705535,24.29066754284383,0 120.8253087624035,24.29678279838605,0 120.8252671437659,24.29682563861129,0 120.8240133688617,24.29817631336394,0 120.8239338148393,24.29826651256282,0 120.8228398452981,24.29958124714109,0 120.8200310806941,24.30314221944176,0 120.8198788713598,24.30333616729571,0 120.8196765167039,24.30361131851291,0 120.8195250326217,24.3038346092319,0 120.8190946727412,24.30466703955398,0 120.8134909123778,24.31028770003902,0 120.8074467287148,24.31514914092337,0 120.8070936946104,24.315367647802,0 120.8065265194948,24.31568294725654,0 120.8059453402692,24.31588987690817,0 120.805507843106,24.31596606480435,0 120.8051439771939,24.3160152590532,0 120.8046672664947,24.31606205188361,0 120.8037603537248,24.31614665837005,0 120.8022980106714,24.3162079655707,0 120.791544683678,24.31752990130642,0 120.7831324422875,24.31861515859677,0 120.7783955447551,24.32010941836584,0 120.7782890514806,24.32017246698613,0 120.7781347438859,24.32028510634114,0 120.7776961673545,24.32060951348831,0 120.772983524025,24.32664755318517,0 120.77304508259,24.32778757532363,0 120.7747861993926,24.33071786743126,0 120.7748602156481,24.33082858643563,0 120.7749686680039,24.33097095409577,0 120.775071805839,24.33107042818216,0 120.7751881822752,24.33117217940596,0 120.7752729309513,24.3312242209297,0 120.7753603455671,24.33124692413478,0 120.7795216420902,24.3320069593014,0 120.7826097279216,24.33226648558657,0 120.7826919668616,24.33225531755892,0 120.7827661895627,24.33225091080724,0 120.7828297771129,24.33225325722462,0 120.7828987143297,24.3322781872519,0 120.7830123857017,24.33234380924454,0 120.783169540905,24.33246592887317,0 120.7832341198008,24.3325179393308,0 120.7833271236603,24.33260610536465,0 120.7836062349836,24.33290220963749,0 120.7843621723239,24.33376331035132,0 120.7844019537662,24.33382205568189,0 120.7844385023244,24.33387854099653,0 120.7844366942441,24.33394625762821,0 120.7844233622442,24.33400041230051,0 120.7842281302178,24.33435904264762,0 120.7841198248341,24.33448529661277,0 120.7840431719144,24.33456193494872,0 120.7810556036503,24.33715127470484,0 120.7783425487798,24.33916083190432,0 120.7759752767091,24.33931988024895,0 120.7789545080572,24.34188852197619,0 120.7846369760841,24.34298696238814,0 120.7865729784779,24.34219287624143,0 120.7885850502569,24.34166297497786,0 120.7973700322369,24.34086008314751,0 120.8229559151487,24.34137289919304,0 120.8230872493606,24.34138433820074,0 120.8232319585997,24.34140933827422,0 120.8305218216118,24.34305870186402,0 120.8385974439999,24.34586202737886,0 120.8403388166472,24.34961999645984,0 120.8432495014746,24.35458228591109,0 120.8471849250866,24.36051844370574,0 120.8472434007923,24.36055687519146,0 120.8473602348184,24.36060439797985,0 120.852211532849,24.36173558671923,0 120.8522991477214,24.36175147307298,0 120.852364124967,24.36176056673471,0 120.8524141883981,24.36175158509066,0 120.8530871315838,24.36155133882834,0 120.8531196384207,24.36154008671398,0 120.8532347956409,24.36144313253907,0 120.8533911176996,24.36130559229011,0 120.8535036627577,24.36120186478086,0 120.8535613600848,24.36111840039941,0 120.86271510387,24.35770943712356,0 120.8747173949767,24.36129536607671,0 120.8848600014694,24.3637457884325,0 120.9025970906593,24.36383271039563,0 120.9081972659536,24.36423123181586,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣大湖鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8925069733463,24.44453917621836,0 120.8927487773259,24.4445325751592,0 120.8931358756589,24.44456219542792,0 120.8983961946466,24.44500147113449,0 120.8987766271424,24.44508298575025,0 120.8989374813539,24.44512598284236,0 120.8991501064187,24.44518481293259,0 120.8993299096248,24.44523910791976,0 120.8995397556307,24.44530470614768,0 120.8999387813056,24.44545395083051,0 120.9032856723689,24.4467675966874,0 120.9041247008348,24.44711574906126,0 120.906499129499,24.44625496298064,0 120.9074514264849,24.44577249578332,0 120.9075234335534,24.44572287977123,0 120.9086628034836,24.44482518243031,0 120.9098254671776,24.44387331503164,0 120.9099556239299,24.44374698590909,0 120.9100175030898,24.44363190393857,0 120.912747380855,24.43690460253294,0 120.9117458625353,24.42896747870302,0 120.9117199411797,24.42879365625494,0 120.9114764033153,24.42779580184064,0 120.9114158557396,24.42756552395037,0 120.9106095561289,24.42531455575844,0 120.9104969147171,24.42510004752416,0 120.9170352136206,24.39282252934786,0 120.9136988490993,24.36767682065856,0 120.9136279245726,24.36733592901883,0 120.913549321227,24.36696569074509,0 120.9126434818922,24.36527898011562,0 120.9125202636165,24.36507123849766,0 120.9123770052641,24.36488380139024,0 120.9122213842488,24.36476181857704,0 120.9119731615717,24.36469395547116,0 120.9081972659536,24.36423123181586,0 120.9025970906593,24.36383271039563,0 120.8848600014694,24.3637457884325,0 120.8747173949767,24.36129536607671,0 120.86271510387,24.35770943712356,0 120.8535613600848,24.36111840039941,0 120.8535036627577,24.36120186478086,0 120.8533911176996,24.36130559229011,0 120.8532347956409,24.36144313253907,0 120.8531196384207,24.36154008671398,0 120.8530871315838,24.36155133882834,0 120.8524141883981,24.36175158509066,0 120.852364124967,24.36176056673471,0 120.8522991477214,24.36175147307298,0 120.852211532849,24.36173558671923,0 120.8473602348184,24.36060439797985,0 120.8472434007923,24.36055687519146,0 120.8471849250866,24.36051844370574,0 120.8432495014746,24.35458228591109,0 120.8403388166472,24.34961999645984,0 120.8385974439999,24.34586202737886,0 120.8305218216118,24.34305870186402,0 120.8232319585997,24.34140933827422,0 120.8230872493606,24.34138433820074,0 120.8229559151487,24.34137289919304,0 120.7973700322369,24.34086008314751,0 120.7885850502569,24.34166297497786,0 120.7865729784779,24.34219287624143,0 120.7846369760841,24.34298696238814,0 120.7789545080572,24.34188852197619,0 120.7759752767091,24.33931988024895,0 120.7759155929109,24.33972158729898,0 120.7756600115416,24.3418046814526,0 120.7769371338291,24.34849714635147,0 120.7779069282023,24.34976038675682,0 120.7788560598877,24.35042992914316,0 120.782831100275,24.35305863232922,0 120.7830530803459,24.35319890106024,0 120.7831693998209,24.35326001364812,0 120.7833048227256,24.35331438066683,0 120.7835596745992,24.35341406551823,0 120.7836565041868,24.35343451981489,0 120.7837036304059,24.35343232943847,0 120.7837319893478,24.35341882651187,0 120.7837628279291,24.35339629674608,0 120.7837770265664,24.35337825843613,0 120.7838740177616,24.35321361648788,0 120.7839476282727,24.35303314020747,0 120.7840453502864,24.35288881313921,0 120.7841493914479,24.35274449500008,0 120.7846698345685,24.35214705361501,0 120.7847864706213,24.3520208114526,0 120.7848833235745,24.35193517343885,0 120.7849707616076,24.35186306319912,0 120.7853565034397,24.35196518814202,0 120.7878624782419,24.35307929653333,0 120.7884498399092,24.35334873331609,0 120.794553955136,24.35634350477117,0 120.7973479958775,24.35838107509849,0 120.8025733559888,24.36255264595772,0 120.8186297208951,24.37596738773309,0 120.8187078277233,24.37606228679183,0 120.8188826056602,24.37630854012956,0 120.8216275305325,24.38155996207059,0 120.8222486932974,24.38291731166641,0 120.8222896669383,24.38302570859642,0 120.8229200563106,24.38694733203583,0 120.8229326781187,24.38706472376107,0 120.8229310296912,24.38714147100579,0 120.8226878123906,24.38912307114569,0 120.8250231427199,24.39097900572868,0 120.8365452328593,24.40109993646023,0 120.8397599525249,24.40474208975874,0 120.8398157688498,24.4048256684094,0 120.8398691251703,24.40490698685595,0 120.8406389805278,24.40612446718114,0 120.8406720302004,24.40618319033414,0 120.84069396681,24.40625996025291,0 120.8431773748782,24.42552380066456,0 120.8418369546329,24.43011819243622,0 120.84498768783,24.43539441538542,0 120.8536003730552,24.43912973002782,0 120.8537371364053,24.43919758075774,0 120.8553767007152,24.44062348642941,0 120.8554606006853,24.44070031314888,0 120.8620098393138,24.44781905152509,0 120.863463803313,24.4514793850674,0 120.8634834066483,24.45159452350805,0 120.8634981116178,24.45167805373683,0 120.863544668904,24.45180901729362,0 120.8635741737723,24.45188804791496,0 120.8639698264566,24.45271907617974,0 120.8641321120107,24.45300815158708,0 120.8668491750098,24.45570572980131,0 120.8669081517282,24.45575544167521,0 120.8670752666972,24.45585942153443,0 120.8672128383313,24.45591597507194,0 120.8741617845314,24.45730561553649,0 120.8832126322037,24.44824096230962,0 120.8834632709055,24.44801768448637,0 120.8849597136247,24.44682925596367,0 120.8856155864736,24.44634670075756,0 120.8859674566578,24.4461370428531,0 120.8866563346801,24.44578994262658,0 120.8870053695519,24.44564799421987,0 120.8873653323293,24.44551734100459,0 120.8883428334051,24.44519076587072,0 120.8887300571101,24.44507592815237,0 120.889109099703,24.44497914620875,0 120.8894953726002,24.44489365208844,0 120.8896698529358,24.44486217782081,0 120.8911040143342,24.4446623216356,0 120.8915118339093,24.44460618413047,0 120.8916918498849,24.44458825475027,0 120.892018892901,24.44455914232996,0 120.8925069733463,24.44453917621836,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣公館鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8634932249558,24.53861126939929,0 120.8659514715087,24.53839677860821,0 120.8742398932067,24.53902691465821,0 120.8742836878637,24.53903146625838,0 120.8743714076199,24.53906314059966,0 120.8744413843692,24.539106085651,0 120.8754256892556,24.53984275848804,0 120.8762445211643,24.54073503999628,0 120.9034851545672,24.54203026982473,0 120.9035341996501,24.54203255874979,0 120.9036548458481,24.54198071891255,0 120.9038389041724,24.54189506062881,0 120.9042317403449,24.54166733139627,0 120.9049997214995,24.54114865398928,0 120.9077981432555,24.53780968482377,0 120.9078318017809,24.53775553303725,0 120.9078169502607,24.5376065455962,0 120.9077537430688,24.53715506111813,0 120.9077350242254,24.53702187411528,0 120.906779210248,24.53340068201097,0 120.9055083204354,24.53070024026377,0 120.9031290607989,24.52653187146041,0 120.9029647242511,24.52626767194419,0 120.8971242926016,24.51747411930924,0 120.8970249472745,24.51733636057976,0 120.8954464448965,24.51563331724789,0 120.8915082812102,24.5120460405855,0 120.8873211865832,24.51190528182503,0 120.8793696507542,24.50339611002453,0 120.8729206697799,24.49057193358313,0 120.8728708436768,24.49045000098621,0 120.8668457830327,24.47285633612088,0 120.865921863732,24.46964119219361,0 120.8646927635124,24.4642949240599,0 120.8647020399185,24.46426784594656,0 120.8647353433008,24.46425884767429,0 120.8658524696734,24.46414020972959,0 120.8662079153189,24.46412698155289,0 120.8663658956827,24.46413389181396,0 120.8665815073665,24.46415214062034,0 120.8670826851739,24.4642112701267,0 120.8684939913767,24.46444725862655,0 120.8690405091395,24.46463282728957,0 120.8692742392083,24.46472106156679,0 120.8694940994754,24.46480702812697,0 120.8697478466912,24.46491333948108,0 120.8700072916475,24.46502868119993,0 120.8703249852032,24.46515536028573,0 120.870656547291,24.4652865657039,0 120.8742215715745,24.46647463245324,0 120.8745533254648,24.46657648331654,0 120.8747850842526,24.46663987858743,0 120.8749089848091,24.46666481221717,0 120.876380898674,24.46690980754884,0 120.8766157809607,24.46693031319465,0 120.8767575880228,24.46693042889099,0 120.8768416083769,24.46691469660431,0 120.8768835606015,24.46688538680138,0 120.8770297265202,24.46668009572976,0 120.8772018524352,24.4664071073734,0 120.8773746198666,24.46610703290981,0 120.87745680233,24.46591974781882,0 120.8775933799904,24.46558804218315,0 120.8776814556733,24.46536012990745,0 120.87771163189,24.46523600785737,0 120.8777376399752,24.46512090613473,0 120.8777457293414,24.46504191097525,0 120.8777419538014,24.46480263868242,0 120.877724272941,24.46459495669207,0 120.8776983586978,24.46445724166193,0 120.8775983395665,24.46412534651953,0 120.8769678825359,24.46211587784195,0 120.8768403915786,24.46182684477833,0 120.8764311334272,24.4610793609499,0 120.8760653843362,24.46044928765618,0 120.8741617845314,24.45730561553649,0 120.8672128383313,24.45591597507194,0 120.8670752666972,24.45585942153443,0 120.8669081517282,24.45575544167521,0 120.8668491750098,24.45570572980131,0 120.8641321120107,24.45300815158708,0 120.8639698264566,24.45271907617974,0 120.8635741737723,24.45188804791496,0 120.863544668904,24.45180901729362,0 120.8634981116178,24.45167805373683,0 120.8634834066483,24.45159452350805,0 120.863463803313,24.4514793850674,0 120.8620098393138,24.44781905152509,0 120.8554606006853,24.44070031314888,0 120.8553767007152,24.44062348642941,0 120.8537371364053,24.43919758075774,0 120.8536003730552,24.43912973002782,0 120.84498768783,24.43539441538542,0 120.8428320637612,24.43808961448027,0 120.842294963079,24.43912513673434,0 120.8424913078982,24.44097177901858,0 120.8425567980089,24.4414707004695,0 120.8425897791984,24.44159262832957,0 120.843481897923,24.44346482235667,0 120.8438878766053,24.44404084152006,0 120.8440956831331,24.44423518068712,0 120.8441712537187,24.44431426041255,0 120.8442703011273,24.44447688563073,0 120.8446061590044,24.44531016080094,0 120.8446719299265,24.44559238308407,0 120.8448649944402,24.44662866371304,0 120.844831747613,24.44671891927765,0 120.8392526821203,24.4537015550643,0 120.8391264511054,24.45382782708665,0 120.8379621193288,24.45487620595002,0 120.83786724095,24.45494833763081,0 120.8261387482318,24.46280634094526,0 120.8162209534642,24.46848964780221,0 120.8161299129296,24.46855725515394,0 120.8159960063311,24.46874218594825,0 120.8157081546449,24.46921811496303,0 120.815288634148,24.4699263784619,0 120.8150032238796,24.47041585219509,0 120.8147067699343,24.47097077230549,0 120.8140849281104,24.47215054845034,0 120.8140642038661,24.47219792296266,0 120.8130478129094,24.47531166993795,0 120.8120228614176,24.48498494602324,0 120.812194411647,24.51188693110799,0 120.8142387232758,24.52254811658961,0 120.8142573148025,24.52269937310831,0 120.8142571255742,24.52282803542866,0 120.8142524911131,24.5229386341059,0 120.8142228940631,24.52324558218442,0 120.8128233312283,24.52688702319838,0 120.8158706819711,24.52961976455861,0 120.8350024519589,24.54919401469449,0 120.8350451179668,24.54923920559084,0 120.8350997791738,24.54930923814348,0 120.8351561303688,24.54938604513972,0 120.8351885892251,24.54945154049206,0 120.8352451932944,24.5495689790465,0 120.8357452501341,24.55085839967446,0 120.8357645942039,24.55092613595442,0 120.835800977813,24.55105709529477,0 120.8358096940831,24.55111579202811,0 120.8358371675937,24.55133703004739,0 120.8358473568909,24.55144990272775,0 120.8363602772908,24.55388826410562,0 120.8371209193922,24.55621854228787,0 120.8371547750867,24.55627952360529,0 120.8371790917031,24.55632243650732,0 120.8372131125556,24.55637213249339,0 120.8373547577528,24.55657543525051,0 120.8373960301034,24.55662739655475,0 120.8374519345557,24.55669291666046,0 120.8394269230268,24.55885293854643,0 120.8394923974067,24.55891621054233,0 120.8395555645982,24.55897496498338,0 120.8396210505898,24.55902920897801,0 120.8415150111854,24.56054806647885,0 120.8458149961244,24.55504264296098,0 120.8459202635332,24.54904981932115,0 120.8482638027447,24.54642478274647,0 120.8576512880115,24.54115879306945,0 120.8601128892714,24.53977967280176,0 120.8634932249558,24.53861126939929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣銅鑼鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8142387232758,24.52254811658961,0 120.812194411647,24.51188693110799,0 120.8120228614176,24.48498494602324,0 120.8130478129094,24.47531166993795,0 120.8140642038661,24.47219792296266,0 120.8140849281104,24.47215054845034,0 120.8147067699343,24.47097077230549,0 120.8150032238796,24.47041585219509,0 120.815288634148,24.4699263784619,0 120.8157081546449,24.46921811496303,0 120.8159960063311,24.46874218594825,0 120.8161299129296,24.46855725515394,0 120.8162209534642,24.46848964780221,0 120.8261387482318,24.46280634094526,0 120.83786724095,24.45494833763081,0 120.8379621193288,24.45487620595002,0 120.8391264511054,24.45382782708665,0 120.8392526821203,24.4537015550643,0 120.844831747613,24.44671891927765,0 120.8448649944402,24.44662866371304,0 120.8446719299265,24.44559238308407,0 120.8446061590044,24.44531016080094,0 120.8442703011273,24.44447688563073,0 120.8441712537187,24.44431426041255,0 120.8440956831331,24.44423518068712,0 120.8438878766053,24.44404084152006,0 120.843481897923,24.44346482235667,0 120.8425897791984,24.44159262832957,0 120.8425567980089,24.4414707004695,0 120.8424913078982,24.44097177901858,0 120.842294963079,24.43912513673434,0 120.8428320637612,24.43808961448027,0 120.84498768783,24.43539441538542,0 120.8418369546329,24.43011819243622,0 120.8431773748782,24.42552380066456,0 120.84069396681,24.40625996025291,0 120.8406720302004,24.40618319033414,0 120.8406389805278,24.40612446718114,0 120.8398691251703,24.40490698685595,0 120.8398157688498,24.4048256684094,0 120.8397599525249,24.40474208975874,0 120.8365452328593,24.40109993646023,0 120.8250231427199,24.39097900572868,0 120.8226878123906,24.38912307114569,0 120.8208678085981,24.38857692645701,0 120.8162165531777,24.38803863988738,0 120.8161013151029,24.38804978797952,0 120.8148720082731,24.38841170953713,0 120.8148103569391,24.38843646543651,0 120.8136371842842,24.38917089668139,0 120.8133668889019,24.38934888906339,0 120.8132945231263,24.38943006200242,0 120.8132507028324,24.38947966610263,0 120.8119114147944,24.39263367623872,0 120.8114465405742,24.39520412660655,0 120.8014462108195,24.40876429147435,0 120.8009286290263,24.4093053560926,0 120.7990907311926,24.41030741030669,0 120.7981704222017,24.41054319903933,0 120.7955967574446,24.41176769725273,0 120.7954706331124,24.41182847272575,0 120.7897692025119,24.41468512789228,0 120.7895201590677,24.41481570366985,0 120.7893632802781,24.41492834889154,0 120.7892830573846,24.41499144058829,0 120.7868918935232,24.4179925065221,0 120.7868655530011,24.41808050386502,0 120.7868276666324,24.41825425961286,0 120.7868175606236,24.4183084183952,0 120.7868108676872,24.41843933072933,0 120.7874723904453,24.42189386860758,0 120.7887857820266,24.43068321379871,0 120.7882722344494,24.43379750880752,0 120.7882620027509,24.43383361121622,0 120.788231414172,24.43388097079177,0 120.7881497766751,24.43395308777039,0 120.7880095321897,24.43405446880391,0 120.7873203625823,24.43445529194899,0 120.7872057728574,24.43451156347509,0 120.7756182680108,24.4378626436226,0 120.7744702191776,24.4380347449651,0 120.7736227636069,24.43815311267053,0 120.7735414049495,24.43814847795098,0 120.7734001649575,24.43810989438468,0 120.7699632335504,24.43693318995985,0 120.7641442797754,24.43445479601262,0 120.7581765263707,24.431905967443,0 120.7512832738071,24.42839830653344,0 120.7519201260316,24.43068143446851,0 120.7546263956032,24.44065612921744,0 120.7546501073334,24.44074645709258,0 120.7546855263241,24.44091806529508,0 120.7547133073533,24.44105580202714,0 120.7560525742399,24.45005084864046,0 120.7560600015042,24.45011406357508,0 120.7560522874374,24.45019982750242,0 120.7560241236665,24.45033973114594,0 120.7543003878385,24.45889867473892,0 120.7542370795071,24.45911752433265,0 120.7538119290139,24.46010550724662,0 120.7523665318925,24.46270348907087,0 120.7520394077009,24.46320406037199,0 120.7597992019325,24.47885024825622,0 120.763289976152,24.4872323706731,0 120.7637266832177,24.48939322812544,0 120.7637538248775,24.48947227607593,0 120.763786084649,24.4895332694438,0 120.7692327711602,24.49682804822928,0 120.7716329502668,24.4998879950342,0 120.7717155968545,24.49996712105318,0 120.7717719323505,24.50001912543372,0 120.7722354198192,24.50042838235265,0 120.7729219946187,24.50092826666668,0 120.7759599959637,24.50235486101866,0 120.7872882959801,24.51508850028656,0 120.7875017158686,24.5153551540118,0 120.7875972169886,24.5155065242461,0 120.7876645483206,24.51562850889968,0 120.7877430539945,24.51580016865295,0 120.7877823480278,24.51590631319071,0 120.7878059153031,24.51601243779058,0 120.7878225938825,24.51609146217264,0 120.7878390869806,24.51636912612926,0 120.7875286730051,24.51940466372281,0 120.7876151009866,24.51926709492629,0 120.7876840107424,24.51918593126765,0 120.7877567340495,24.5191296037316,0 120.7878829907101,24.51905754861443,0 120.7881849581541,24.51893833827204,0 120.788253746279,24.51892940682071,0 120.7904191892677,24.51872927926912,0 120.7937928550718,24.52112433557015,0 120.8006116335297,24.52739731143982,0 120.8087483047871,24.52722726841945,0 120.8128233312283,24.52688702319838,0 120.8142228940631,24.52324558218442,0 120.8142524911131,24.5229386341059,0 120.8142571255742,24.52282803542866,0 120.8142573148025,24.52269937310831,0 120.8142387232758,24.52254811658961,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣南庄鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9749016771525,24.63898179366756,0 120.9814099485681,24.63846358228496,0 121.0082023907545,24.64438515261016,0 121.0164304933374,24.64064203649229,0 121.040122481459,24.627690248468,0 121.0431329062245,24.62725151753038,0 121.0464908783178,24.62225531526762,0 121.0475156807698,24.6208194098035,0 121.0481221685101,24.6199953349364,0 121.0482497331466,24.61983503182197,0 121.0493648588507,24.61862029102451,0 121.0493950989028,24.6185931951935,0 121.0518630822436,24.61651573170676,0 121.0551561431274,24.61766573581381,0 121.0552333530274,24.61777179796825,0 121.0552819890228,24.61783046696867,0 121.0553468294701,24.61789138751415,0 121.0584468641785,24.61995781978194,0 121.0585255939498,24.62000744811432,0 121.0592559067339,24.62044731791314,0 121.0612077479796,24.62161125615154,0 121.0614153754432,24.621730804894,0 121.0615180181619,24.62176913427313,0 121.0616069179119,24.62178489836123,0 121.0619640479871,24.62182538271078,0 121.0620529422607,24.62182985892841,0 121.0621458458433,24.62182982057944,0 121.0623313470033,24.62182974383612,0 121.0624154462192,24.62181616602302,0 121.0625623353787,24.62175290314061,0 121.071522531987,24.61396605144481,0 121.0717094013892,24.6139501620265,0 121.0718198793182,24.61392979380828,0 121.0720218466447,24.61387552326164,0 121.0721511441577,24.61383708997069,0 121.0728644029603,24.61358845362193,0 121.0733101204677,24.61341668935619,0 121.0734068534417,24.61337375361323,0 121.0737886783157,24.61319750403359,0 121.073965922687,24.61308907116113,0 121.0742462110294,24.61291512999992,0 121.0743279663038,24.6128631709577,0 121.0743946016534,24.61281122371581,0 121.0745958783613,24.61263731875578,0 121.0749220551127,24.61230308902416,0 121.0751352813854,24.6119869730187,0 121.0752425747391,24.61180182863727,0 121.0812714454263,24.60057131581064,0 121.0813247423439,24.6004290846445,0 121.0827031436803,24.59509678823262,0 121.0827928813814,24.59429994254381,0 121.0830979106521,24.59008103445666,0 121.0830953782507,24.589988492395,0 121.083057649962,24.58985984925957,0 121.0830274960616,24.58976054983489,0 121.0705849247156,24.56335739596424,0 121.0704995744758,24.56327166035691,0 121.0704369151873,24.56321525773444,0 121.0667070015307,24.56107259169437,0 121.0619344051455,24.55907246778139,0 121.0606867313831,24.55660808144,0 121.064541241063,24.55431087957101,0 121.0717360515178,24.54994665873509,0 121.0742661747911,24.54760242931775,0 121.0802374741267,24.54144389867683,0 121.0803496697129,24.54131517852514,0 121.0804567474306,24.54114131229883,0 121.080536058862,24.54096069255682,0 121.0805531106815,24.54085684947168,0 121.0801161787344,24.53792719630201,0 121.0783998171246,24.52921517043808,0 121.0783613075836,24.52904138320859,0 121.0782979974922,24.52890372525369,0 121.0781115592414,24.52866229910821,0 121.0779629727014,24.52853145559655,0 121.077804533262,24.52842544568832,0 121.0775934856626,24.52828786354468,0 121.0774301280111,24.52820894417604,0 121.0760926194269,24.52789361149625,0 121.0734588965979,24.5269130204279,0 121.0721729336468,24.52635384517096,0 121.0717985428802,24.52613506984937,0 121.0702854022708,24.52522386093731,0 121.0670219520466,24.52298165060259,0 121.0669248832741,24.52254830283815,0 121.0667256851854,24.52115567621951,0 121.0666838501739,24.52077873381439,0 121.0667158440015,24.52062297262814,0 121.0667624532929,24.52041077053651,0 121.0690901803691,24.51007155910913,0 121.0718828332381,24.4983822479724,0 121.0711376445881,24.49772348555649,0 121.0702772462329,24.49697674136655,0 121.0700019562,24.49680757416381,0 121.0673499830881,24.49527610945411,0 121.0669721761671,24.49510924210777,0 121.0667769847298,24.4950890126937,0 121.0665015057786,24.49513427889054,0 121.0616503059698,24.49691279178652,0 121.0613873424717,24.49702576157551,0 121.0393706954683,24.49374655368655,0 121.0256946784393,24.49766582261755,0 121.0257735178118,24.49794119430895,0 121.0259566764426,24.49869056997544,0 121.025902901643,24.49884632676646,0 121.0207157445833,24.50684003525477,0 121.0205187222407,24.50699581174016,0 121.0201874080859,24.50717643473707,0 121.0157406820383,24.50955610071149,0 121.0130940996196,24.5101748364527,0 121.0112850178355,24.51038716439557,0 121.0098700121842,24.5103127729392,0 121.0096777375831,24.51029924223881,0 121.0095116720857,24.51024733774557,0 121.0064913369688,24.50880963116966,0 121.0063374493924,24.50866968887165,0 121.003742405512,24.50630644123397,0 120.9994471515259,24.50235179376936,0 120.9989856939132,24.50199740276749,0 120.9987880365242,24.50186196746397,0 120.9985609307786,24.50172201869016,0 120.9984251015509,24.50165655468883,0 120.9920261022128,24.50099272183641,0 120.9914695228891,24.50095206191209,0 120.991213123782,24.50095204720751,0 120.9792325748466,24.50185151595836,0 120.9789763246703,24.50187856682524,0 120.9783976641118,24.50203874993593,0 120.9772056312658,24.5024335927509,0 120.9735210787121,24.5037263930736,0 120.9656294599327,24.5065576459986,0 120.957815020144,24.51269310665175,0 120.9536709942322,24.516775241157,0 120.9494333991643,24.52972591553613,0 120.9563269435703,24.55137268459222,0 120.9741453919885,24.5826032580392,0 120.9743316967443,24.58290350043557,0 120.9745556376384,24.5832579210304,0 120.9764191131811,24.58602783571184,0 120.9766509337713,24.58637999675057,0 120.9766936562571,24.58644997815435,0 120.9768329309424,24.58668249277489,0 120.9768489724033,24.58670958345216,0 120.9770482334614,24.58709108239872,0 120.9771401569386,24.58726715990978,0 120.9779146339899,24.58916334064807,0 120.9833580245681,24.60411358890193,0 120.9833791526995,24.60418582338823,0 120.9835670069385,24.6048765513627,0 120.9836185183754,24.60508196358327,0 120.9838692812609,24.60615416760794,0 120.9838823882405,24.60622414361755,0 120.9838899293213,24.60637763442383,0 120.9838824082021,24.60726246186191,0 120.9838695842952,24.60738886451531,0 120.9835342949551,24.60958961287451,0 120.9831647088089,24.61197544469302,0 120.9831399996831,24.6121266742832,0 120.9831284210399,24.61215601863203,0 120.9807934005553,24.6178281091858,0 120.9786042740481,24.62013017080126,0 120.9688306561867,24.62316440933167,0 120.9687349679807,24.62318696250991,0 120.9684403582761,24.62317787090334,0 120.9682357252019,24.62316654240892,0 120.9677974513031,24.62309421944752,0 120.9668152520624,24.62272833766897,0 120.9667393341608,24.62268994739631,0 120.9645633836787,24.62138478404682,0 120.9645163253585,24.62135317201011,0 120.9644928735056,24.62132607839244,0 120.9644584753401,24.6212718984703,0 120.9644277766583,24.62122223227408,0 120.9641996670652,24.62074590863657,0 120.9592942529939,24.62568117764426,0 120.9506157793909,24.64138647188723,0 120.9492729576014,24.64514878110091,0 120.9494550423924,24.64643319139202,0 120.9543704887701,24.64650022295471,0 120.9546344397304,24.64649127496713,0 120.9547475890878,24.64647550646773,0 120.9548349628577,24.64645070445119,0 120.9549291330413,24.64641687436376,0 120.9550517114985,24.64636499696502,0 120.9552416203991,24.64622284767535,0 120.955335969025,24.64611678783328,0 120.9554962552462,24.64592948785358,0 120.955585967042,24.64584373974328,0 120.9557368156334,24.64571512554674,0 120.9560608951531,24.64547144176968,0 120.9561857946658,24.64539021860548,0 120.9572739245679,24.64469757295344,0 120.959943212562,24.64310697787326,0 120.9616757716642,24.64223840601802,0 120.9618875694996,24.64214139977215,0 120.962137795289,24.64206246303988,0 120.9722344656594,24.63940793655327,0 120.9749016771525,24.63898179366756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣頭屋鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9048875337189,24.594789249917,0 120.904940924492,24.59478025570647,0 120.9199001539857,24.59559929666544,0 120.9207355424928,24.59675769160309,0 120.920828820228,24.596870601824,0 120.92089403848,24.59694738115676,0 120.9210072276854,24.5970512716114,0 120.9211005459424,24.59709646456371,0 120.9212097788373,24.59711006475642,0 120.9213349140259,24.59710787485101,0 120.9214460190797,24.59708987482003,0 120.9215253383411,24.59706960061353,0 120.921611764882,24.59703578707845,0 120.9240630726984,24.59598518139396,0 120.9289603766571,24.5937867864374,0 120.9368500300555,24.58956027518726,0 120.934335327073,24.58450754204462,0 120.9235746116219,24.56669072517148,0 120.9223345212982,24.56469922004338,0 120.9160189254968,24.55899408028525,0 120.9143599732072,24.55923015351857,0 120.9141687214191,24.55920295862167,0 120.9138052508378,24.55906731629585,0 120.9109503795101,24.55780160912903,0 120.9107528856435,24.55766831712618,0 120.9105170019587,24.5575033986997,0 120.9103574581169,24.55736335607972,0 120.9086740264316,24.55520895134653,0 120.9083170701896,24.55461959736953,0 120.9061864556323,24.55074939811832,0 120.9034851545672,24.54203026982473,0 120.8762445211643,24.54073503999628,0 120.8754256892556,24.53984275848804,0 120.8744413843692,24.539106085651,0 120.8743714076199,24.53906314059966,0 120.8742836878637,24.53903146625838,0 120.8742398932067,24.53902691465821,0 120.8659514715087,24.53839677860821,0 120.8634932249558,24.53861126939929,0 120.8601128892714,24.53977967280176,0 120.8576512880115,24.54115879306945,0 120.8482638027447,24.54642478274647,0 120.8459202635332,24.54904981932115,0 120.8458149961244,24.55504264296098,0 120.8415150111854,24.56054806647885,0 120.845017259606,24.57523267114274,0 120.8450405723901,24.57534104132304,0 120.8450590747412,24.57547649255301,0 120.8451186075552,24.57649230284489,0 120.8451297352886,24.57697761564949,0 120.8451032328605,24.58347385851004,0 120.8450865505679,24.58374244792838,0 120.8450724038047,24.58383046606721,0 120.8450042365137,24.58418703736529,0 120.8447881133156,24.58504455537575,0 120.8447600809226,24.58513030162808,0 120.8447224973929,24.58520700791589,0 120.8446073119066,24.58540552536307,0 120.8444692807549,24.58561530239526,0 120.8442042568977,24.58596489722276,0 120.8441714974212,24.58600549446139,0 120.8441387431105,24.58604383198584,0 120.8440801888957,24.58610923094125,0 120.8439328030894,24.58627159842798,0 120.8437205664404,24.58647678276649,0 120.8438987431588,24.5866169146103,0 120.8441138845206,24.58680674356037,0 120.8443134182476,24.58701912915926,0 120.8443611774747,24.58707335263111,0 120.8444026211825,24.58712079479553,0 120.8445204620459,24.58727215118367,0 120.8445903298585,24.58741668539483,0 120.8446352453293,24.58752507776183,0 120.8446543049113,24.58758378439702,0 120.8447080567815,24.58790888007834,0 120.844720753903,24.58799692362483,0 120.8447286606637,24.58808947728717,0 120.8447395825745,24.58824298073508,0 120.8447192521833,24.59059045996697,0 120.8447142803475,24.59074394479084,0 120.8447063541759,24.59078908059198,0 120.8446871294034,24.59086580792277,0 120.8446614171733,24.59094703924089,0 120.8446391155208,24.59101473328397,0 120.8446067763484,24.59109144488577,0 120.8437689933204,24.59245845088402,0 120.8435513369344,24.59279455035219,0 120.8435097518121,24.59285770911903,0 120.843257017555,24.59311250949308,0 120.8398215115359,24.59608390103701,0 120.8390351857133,24.60106472459976,0 120.839754340305,24.60327530288027,0 120.8459592231963,24.60360456055695,0 120.8803443960145,24.60449581905861,0 120.8804852815976,24.60449141594208,0 120.8806079683428,24.60447571500686,0 120.8832331474103,24.60397667385392,0 120.9024520195446,24.59997025877149,0 120.9025506388173,24.59994549421697,0 120.9026491136225,24.59990041176089,0 120.9027082362138,24.59986659144725,0 120.9027652119442,24.59981471387807,0 120.9040788150373,24.59690600563286,0 120.9040600353123,24.59563292475144,0 120.9040801424037,24.59557199085122,0 120.904118621389,24.59549075744799,0 120.9042709326479,24.59526061705663,0 120.9043711557293,24.59514556427208,0 120.9046334761966,24.59491098046141,0 120.9046719118871,24.59488617417247,0 120.9047571173261,24.59484334160644,0 120.9048423145152,24.59480502186032,0 120.9048875337189,24.594789249917,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣三義鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8161013151029,24.38804978797952,0 120.8162165531777,24.38803863988738,0 120.8208678085981,24.38857692645701,0 120.8226878123906,24.38912307114569,0 120.8229310296912,24.38714147100579,0 120.8229326781187,24.38706472376107,0 120.8229200563106,24.38694733203583,0 120.8222896669383,24.38302570859642,0 120.8222486932974,24.38291731166641,0 120.8216275305325,24.38155996207059,0 120.8188826056602,24.37630854012956,0 120.8187078277233,24.37606228679183,0 120.8186297208951,24.37596738773309,0 120.8025733559888,24.36255264595772,0 120.7973479958775,24.35838107509849,0 120.794553955136,24.35634350477117,0 120.7884498399092,24.35334873331609,0 120.7878624782419,24.35307929653333,0 120.7853565034397,24.35196518814202,0 120.7849707616076,24.35186306319912,0 120.7848833235745,24.35193517343885,0 120.7847864706213,24.3520208114526,0 120.7846698345685,24.35214705361501,0 120.7841493914479,24.35274449500008,0 120.7840453502864,24.35288881313921,0 120.7839476282727,24.35303314020747,0 120.7838740177616,24.35321361648788,0 120.7837770265664,24.35337825843613,0 120.7837628279291,24.35339629674608,0 120.7837319893478,24.35341882651187,0 120.7837036304059,24.35343232943847,0 120.7836565041868,24.35343451981489,0 120.7835596745992,24.35341406551823,0 120.7833048227256,24.35331438066683,0 120.7831693998209,24.35326001364812,0 120.7830530803459,24.35319890106024,0 120.782831100275,24.35305863232922,0 120.7788560598877,24.35042992914316,0 120.7779069282023,24.34976038675682,0 120.7769371338291,24.34849714635147,0 120.7756600115416,24.3418046814526,0 120.7759155929109,24.33972158729898,0 120.7759752767091,24.33931988024895,0 120.7783425487798,24.33916083190432,0 120.7810556036503,24.33715127470484,0 120.7840431719144,24.33456193494872,0 120.7841198248341,24.33448529661277,0 120.7842281302178,24.33435904264762,0 120.7844233622442,24.33400041230051,0 120.7844366942441,24.33394625762821,0 120.7844385023244,24.33387854099653,0 120.7844019537662,24.33382205568189,0 120.7843621723239,24.33376331035132,0 120.7836062349836,24.33290220963749,0 120.7833271236603,24.33260610536465,0 120.7832341198008,24.3325179393308,0 120.783169540905,24.33246592887317,0 120.7830123857017,24.33234380924454,0 120.7828987143297,24.3322781872519,0 120.7828297771129,24.33225325722462,0 120.7827661895627,24.33225091080724,0 120.7826919668616,24.33225531755892,0 120.7826097279216,24.33226648558657,0 120.7795216420902,24.3320069593014,0 120.7753603455671,24.33124692413478,0 120.7752729309513,24.3312242209297,0 120.7751881822752,24.33117217940596,0 120.775071805839,24.33107042818216,0 120.7749686680039,24.33097095409577,0 120.7748602156481,24.33082858643563,0 120.7747861993926,24.33071786743126,0 120.77304508259,24.32778757532363,0 120.772983524025,24.32664755318517,0 120.7776961673545,24.32060951348831,0 120.7644877003663,24.32573169658793,0 120.7636366647262,24.32585452204139,0 120.7632560762835,24.32593067635127,0 120.763030227384,24.3260048159372,0 120.7629967964215,24.32601604954876,0 120.7627912175678,24.32611730723179,0 120.7581591883366,24.32887291236379,0 120.7486103421274,24.33615519100265,0 120.7467840885117,24.33759230009971,0 120.7466141307136,24.33772970988335,0 120.7462563239053,24.33802030209701,0 120.7432778094655,24.34051184131143,0 120.7349907547815,24.34756286959569,0 120.7309303721965,24.3514043729758,0 120.7306375736167,24.35164763987186,0 120.7303993077676,24.35180974093554,0 120.7298337623387,24.35213378119852,0 120.7281492655369,24.3528959859779,0 120.7243403066111,24.35410352367067,0 120.7278875546998,24.36315707564562,0 120.7290791409838,24.37009128276852,0 120.7294598774583,24.37479610924263,0 120.7325798307614,24.38084886179467,0 120.7348659881588,24.3848956417548,0 120.7364094434206,24.38689375549592,0 120.7421309344561,24.39408170081354,0 120.7473192772006,24.40033628750726,0 120.7473875116618,24.40041992065868,0 120.7474297638223,24.40047642174374,0 120.7474544585554,24.40053063815254,0 120.74747684083,24.40058485070156,0 120.7475273744635,24.40073842814698,0 120.7484189121804,24.40469463463792,0 120.7492898320602,24.40562155510595,0 120.749366385713,24.40570745868167,0 120.7495809584978,24.40595836713186,0 120.7496974573756,24.40610076936028,0 120.7507136722556,24.40734393598085,0 120.7507728354651,24.40742077991634,0 120.7508120059179,24.40747953471727,0 120.7509210120608,24.40767383690345,0 120.750968887675,24.40777098034339,0 120.751430946009,24.40886199408931,0 120.7514382581638,24.40890489559584,0 120.751445567941,24.40894779491124,0 120.752108441247,24.42523273333627,0 120.7521079252004,24.42549683072921,0 120.7512832738071,24.42839830653344,0 120.7581765263707,24.431905967443,0 120.7641442797754,24.43445479601262,0 120.7699632335504,24.43693318995985,0 120.7734001649575,24.43810989438468,0 120.7735414049495,24.43814847795098,0 120.7736227636069,24.43815311267053,0 120.7744702191776,24.4380347449651,0 120.7756182680108,24.4378626436226,0 120.7872057728574,24.43451156347509,0 120.7873203625823,24.43445529194899,0 120.7880095321897,24.43405446880391,0 120.7881497766751,24.43395308777039,0 120.788231414172,24.43388097079177,0 120.7882620027509,24.43383361121622,0 120.7882722344494,24.43379750880752,0 120.7887857820266,24.43068321379871,0 120.7874723904453,24.42189386860758,0 120.7868108676872,24.41843933072933,0 120.7868175606236,24.4183084183952,0 120.7868276666324,24.41825425961286,0 120.7868655530011,24.41808050386502,0 120.7868918935232,24.4179925065221,0 120.7892830573846,24.41499144058829,0 120.7893632802781,24.41492834889154,0 120.7895201590677,24.41481570366985,0 120.7897692025119,24.41468512789228,0 120.7954706331124,24.41182847272575,0 120.7955967574446,24.41176769725273,0 120.7981704222017,24.41054319903933,0 120.7990907311926,24.41030741030669,0 120.8009286290263,24.4093053560926,0 120.8014462108195,24.40876429147435,0 120.8114465405742,24.39520412660655,0 120.8119114147944,24.39263367623872,0 120.8132507028324,24.38947966610263,0 120.8132945231263,24.38943006200242,0 120.8133668889019,24.38934888906339,0 120.8136371842842,24.38917089668139,0 120.8148103569391,24.38843646543651,0 120.8148720082731,24.38841170953713,0 120.8161013151029,24.38804978797952,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣西湖鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.7637266832177,24.48939322812544,0 120.763289976152,24.4872323706731,0 120.7588755384386,24.49178951876318,0 120.7496654565422,24.50824555728285,0 120.7391932627478,24.53104385545608,0 120.7385705165391,24.53269732053053,0 120.7270311293324,24.56001853177831,0 120.7345151716728,24.56849869928101,0 120.7443323060176,24.57751517078706,0 120.7470230895555,24.57905461607385,0 120.7528791606016,24.58123577110253,0 120.7529644653857,24.58124042607842,0 120.7668270220942,24.58065759118855,0 120.7783927023931,24.56933255874666,0 120.7870606174519,24.56385550792056,0 120.7871307546611,24.56379240491568,0 120.7872200948976,24.56368644029629,0 120.7872905973148,24.56358948133792,0 120.7873544624528,24.56349476832422,0 120.787388497703,24.56343612712273,0 120.7874610565407,24.56330982527845,0 120.7894045266741,24.55968971952116,0 120.7895091450355,24.55948220119597,0 120.7895541118107,24.55934231671357,0 120.7914956602286,24.5526139862194,0 120.7919941178309,24.5482469513845,0 120.7919969658828,24.54810926535044,0 120.791986127963,24.54635764565662,0 120.7887986228537,24.52662055243054,0 120.7875286730051,24.51940466372281,0 120.7878390869806,24.51636912612926,0 120.7878225938825,24.51609146217264,0 120.7878059153031,24.51601243779058,0 120.7877823480278,24.51590631319071,0 120.7877430539945,24.51580016865295,0 120.7876645483206,24.51562850889968,0 120.7875972169886,24.5155065242461,0 120.7875017158686,24.5153551540118,0 120.7872882959801,24.51508850028656,0 120.7759599959637,24.50235486101866,0 120.7729219946187,24.50092826666668,0 120.7722354198192,24.50042838235265,0 120.7717719323505,24.50001912543372,0 120.7717155968545,24.49996712105318,0 120.7716329502668,24.4998879950342,0 120.7692327711602,24.49682804822928,0 120.763786084649,24.4895332694438,0 120.7637538248775,24.48947227607593,0 120.7637266832177,24.48939322812544,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣造橋鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.8757818341542,24.64753025309785,0 120.8758690532107,24.6475235526104,0 120.8760232559827,24.6475236798662,0 120.8761706612152,24.64753057389946,0 120.8762913576694,24.64754195864771,0 120.8764252896498,24.64759172750359,0 120.8765659972468,24.64765955752599,0 120.8769479743502,24.64787430587185,0 120.8765555130221,24.64435049749032,0 120.8771996623284,24.63784351406535,0 120.8781311833157,24.63413343292268,0 120.8781472731933,24.6340973300825,0 120.8781998489671,24.6339912825513,0 120.8783256907725,24.63377695321115,0 120.878397217327,24.63370703463338,0 120.8804678293144,24.63177878718109,0 120.8806930189134,24.6316074187786,0 120.8880916988301,24.62618904282687,0 120.8905689226367,24.6254166435753,0 120.8907408804849,24.62537839512431,0 120.8908747063192,24.62535366393095,0 120.8909358224525,24.62535145073688,0 120.8912682542238,24.6253449210289,0 120.8916426569679,24.62534744652977,0 120.8965817782734,24.62541864018405,0 120.8968675091418,24.62515022872218,0 120.8969936662352,24.62506454254314,0 120.8970969513368,24.62501946940591,0 120.8977000549344,24.62484833115293,0 120.8978988660773,24.624805579915,0 120.898066943969,24.62478989345335,0 120.900183943608,24.62471005332881,0 120.9005279187653,24.62474188208604,0 120.9007022899959,24.62476682563708,0 120.9060308592458,24.62574987674631,0 120.9064130599864,24.62585169029003,0 120.9066270685141,24.62591728261086,0 120.9069479735892,24.62605517048681,0 120.9070815598476,24.62614102787806,0 120.9072174479263,24.62624719987316,0 120.9080234691281,24.62694968724206,0 120.9086942226739,24.62755276828468,0 120.9117087881955,24.62713698596836,0 120.9158756020433,24.62160921426612,0 120.9159081945151,24.62156183328547,0 120.9159459019543,24.62148736490139,0 120.9159647585467,24.62144223156983,0 120.9159768256671,24.62139709444167,0 120.9159974046127,24.62131810361809,0 120.9160064064904,24.6212413638496,0 120.916008150602,24.62117139040621,0 120.9160082787812,24.62097952957728,0 120.9159964379436,24.62068608452583,0 120.9159439630991,24.62023235677473,0 120.9159060060155,24.61999081353546,0 120.915883855229,24.61988245541129,0 120.9158581341359,24.61980795374165,0 120.915827461078,24.61974924976158,0 120.9157949370754,24.61969505759705,0 120.9156920818968,24.61957536664105,0 120.9156081774729,24.61950534735184,0 120.9155406078751,24.61947145097911,0 120.9140576493766,24.61889502396863,0 120.9123207149568,24.61850803796574,0 120.9122059126841,24.61849217055089,0 120.9121511391339,24.61847182306657,0 120.9120329643737,24.61842435480028,0 120.9119112467676,24.61836333704978,0 120.9117602387249,24.61825941784792,0 120.9117053416878,24.61820069662582,0 120.9116626287901,24.6181532723343,0 120.9116351838746,24.6181171402354,0 120.911600969544,24.6180561735992,0 120.9115735389529,24.61799972817114,0 120.9115564333911,24.61796360431888,0 120.9115462740872,24.6179252248431,0 120.911542942971,24.61783493292862,0 120.9115480849446,24.61776722121551,0 120.9115754569138,24.61768597743578,0 120.9116236833928,24.61757540248232,0 120.9118364749591,24.6171579447114,0 120.9146887820009,24.6121395524405,0 120.916380156651,24.61037310507968,0 120.9162573762428,24.61029403656172,0 120.9135567618275,24.60850705225851,0 120.913514967287,24.60847317192799,0 120.9134870548311,24.60844832529594,0 120.9134643900449,24.60841896881149,0 120.9134411513186,24.6083309228997,0 120.9134498345654,24.60826998564534,0 120.9134691600052,24.60821582271201,0 120.9135006888968,24.60814361096164,0 120.9135215538399,24.60809621929673,0 120.9158543020413,24.60177734481122,0 120.9163001257896,24.60147512625259,0 120.9191599283772,24.60172949731707,0 120.9233322301862,24.60401146777882,0 120.9265494366783,24.60591364716864,0 120.9265842859403,24.60595429308673,0 120.9281391985864,24.60763440902033,0 120.9282218686622,24.60770442302727,0 120.9283261331245,24.60778798805727,0 120.9283804346782,24.60781510203039,0 120.9284456877733,24.60784447653179,0 120.9286152476191,24.60789195853519,0 120.9286956325393,24.60790779713629,0 120.9289965078896,24.607957598393,0 120.9292747049248,24.60799610076496,0 120.9293507768796,24.60800065154471,0 120.9295888676607,24.60800979104133,0 120.930101938115,24.60802357317357,0 120.9302846399841,24.60802591762586,0 120.9317888477877,24.60801306392473,0 120.9352930685227,24.60797623777176,0 120.9452963543912,24.60713375184914,0 120.945323054132,24.60712473144541,0 120.9459106205094,24.60685182239201,0 120.9487498463347,24.60541496811494,0 120.9488509515482,24.60533148712074,0 120.948893251684,24.60527732958175,0 120.9493740572039,24.60377192899294,0 120.9494164337239,24.60352590551899,0 120.9494146026753,24.60347850556641,0 120.9490683261865,24.60123697171464,0 120.9368500300555,24.58956027518726,0 120.9289603766571,24.5937867864374,0 120.9240630726984,24.59598518139396,0 120.921611764882,24.59703578707845,0 120.9215253383411,24.59706960061353,0 120.9214460190797,24.59708987482003,0 120.9213349140259,24.59710787485101,0 120.9212097788373,24.59711006475642,0 120.9211005459424,24.59709646456371,0 120.9210072276854,24.5970512716114,0 120.92089403848,24.59694738115676,0 120.920828820228,24.596870601824,0 120.9207355424928,24.59675769160309,0 120.9199001539857,24.59559929666544,0 120.904940924492,24.59478025570647,0 120.9048875337189,24.594789249917,0 120.9048423145152,24.59480502186032,0 120.9047571173261,24.59484334160644,0 120.9046719118871,24.59488617417247,0 120.9046334761966,24.59491098046141,0 120.9043711557293,24.59514556427208,0 120.9042709326479,24.59526061705663,0 120.904118621389,24.59549075744799,0 120.9040801424037,24.59557199085122,0 120.9040600353123,24.59563292475144,0 120.9040788150373,24.59690600563286,0 120.9027652119442,24.59981471387807,0 120.9027082362138,24.59986659144725,0 120.9026491136225,24.59990041176089,0 120.9025506388173,24.59994549421697,0 120.9024520195446,24.59997025877149,0 120.8832331474103,24.60397667385392,0 120.8806079683428,24.60447571500686,0 120.8804852815976,24.60449141594208,0 120.8803443960145,24.60449581905861,0 120.8459592231963,24.60360456055695,0 120.839754340305,24.60327530288027,0 120.8347705501006,24.60371909814641,0 120.8347262173698,24.60375516545518,0 120.8346741390278,24.60381379509099,0 120.8320762921314,24.60693263843086,0 120.8320674473527,24.60696874452382,0 120.832104630086,24.6070884193083,0 120.8321849527133,24.6072577967171,0 120.8342437096322,24.61136819457074,0 120.8343029858222,24.61146983730399,0 120.8343361035298,24.61151501760083,0 120.8343761744655,24.61155343298424,0 120.8344148595401,24.61158958931204,0 120.8341070933757,24.61491411692426,0 120.8302916186478,24.62062284734607,0 120.8263324212063,24.62510113209826,0 120.8190984091549,24.63044442995834,0 120.8227719001762,24.64117726689052,0 120.8237359686926,24.64194584861066,0 120.823789144242,24.64199782492395,0 120.8255110458824,24.64368596110111,0 120.8255691464362,24.6437514853642,0 120.825611212193,24.64380345032063,0 120.8354788587009,24.65696047648837,0 120.8385400413476,24.66171970071624,0 120.8386344654314,24.66188232064016,0 120.8387013067234,24.66200428018068,0 120.8388636252728,24.66230917595099,0 120.8389383019322,24.66246048697337,0 120.8390012464022,24.66261178757085,0 120.8392920985303,24.66332988702275,0 120.8401535407663,24.66573696873964,0 120.8681757209389,24.65518018682256,0 120.8684374706427,24.6546432055742,0 120.8689111454118,24.6536797942227,0 120.8692958360208,24.65292622603371,0 120.8695347074362,24.65256076729167,0 120.8696748741497,24.65240965760442,0 120.8697892043509,24.65231043938331,0 120.8699345887881,24.65218641971269,0 120.8754196541218,24.64774438636497,0 120.8755538935141,24.6476406673293,0 120.8756813060677,24.64757305615458,0 120.8757818341542,24.64753025309785,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣三灣鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9600634917661,24.67887907836081,0 120.9770097274864,24.67364819734412,0 120.9775653150182,24.67397106114052,0 120.9777515075657,24.67398688701243,0 120.9778722412609,24.67398464952624,0 120.9781526172801,24.67395986017905,0 120.9785449329354,24.67390348779929,0 120.9787184721184,24.67387191176266,0 120.9789939146214,24.67381326409693,0 120.9793056418227,24.67371850518785,0 120.9795130022223,24.67363501678232,0 120.9797768758382,24.67349961960308,0 120.9798446589436,24.67346125764964,0 120.9798999368069,24.67341837679407,0 120.9817472893575,24.67178440679475,0 120.983019056387,24.67006231347438,0 120.9831899946037,24.66981404176984,0 120.9837742382199,24.66704001255488,0 120.9861512332352,24.66437450115306,0 120.9862123737044,24.66430904991592,0 120.9866667560187,24.66385990764082,0 120.9867658776648,24.66376737160732,0 120.9961501202553,24.65539144105426,0 120.9962098636324,24.65534404136636,0 120.997008111845,24.65473461618369,0 120.9971082966105,24.65466464617478,0 120.9972347228196,24.65461498982881,0 120.9973202425893,24.65461047635326,0 121.0000732093976,24.65472561590466,0 121.000167526728,24.65474141842023,0 121.000284228991,24.6547685040267,0 121.0005511263174,24.65486782073525,0 121.000698856015,24.65492876422488,0 121.001020558159,24.65507773636936,0 121.0011193527463,24.65513416474236,0 121.0012366730689,24.65521542335074,0 121.0013189512836,24.65528539680267,0 121.0046832604767,24.65620626797079,0 121.009971134743,24.65611346309952,0 121.0103223160419,24.65602089449563,0 121.0108813030866,24.65450627609196,0 121.0107607364647,24.65260572097725,0 121.0107340219038,24.6524996328689,0 121.0082023907545,24.64438515261016,0 120.9814099485681,24.63846358228496,0 120.9749016771525,24.63898179366756,0 120.9722344656594,24.63940793655327,0 120.962137795289,24.64206246303988,0 120.9618875694996,24.64214139977215,0 120.9616757716642,24.64223840601802,0 120.959943212562,24.64310697787326,0 120.9572739245679,24.64469757295344,0 120.9561857946658,24.64539021860548,0 120.9560608951531,24.64547144176968,0 120.9557368156334,24.64571512554674,0 120.955585967042,24.64584373974328,0 120.9554962552462,24.64592948785358,0 120.955335969025,24.64611678783328,0 120.9552416203991,24.64622284767535,0 120.9550517114985,24.64636499696502,0 120.9549291330413,24.64641687436376,0 120.9548349628577,24.64645070445119,0 120.9547475890878,24.64647550646773,0 120.9546344397304,24.64649127496713,0 120.9543704887701,24.64650022295471,0 120.9494550423924,24.64643319139202,0 120.9492729576014,24.64514878110091,0 120.9506157793909,24.64138647188723,0 120.9592942529939,24.62568117764426,0 120.9641996670652,24.62074590863657,0 120.9644277766583,24.62122223227408,0 120.9644584753401,24.6212718984703,0 120.9644928735056,24.62132607839244,0 120.9645163253585,24.62135317201011,0 120.9645633836787,24.62138478404682,0 120.9667393341608,24.62268994739631,0 120.9668152520624,24.62272833766897,0 120.9677974513031,24.62309421944752,0 120.9682357252019,24.62316654240892,0 120.9684403582761,24.62317787090334,0 120.9687349679807,24.62318696250991,0 120.9688306561867,24.62316440933167,0 120.9786042740481,24.62013017080126,0 120.9807934005553,24.6178281091858,0 120.9831284210399,24.61215601863203,0 120.9831399996831,24.6121266742832,0 120.9831647088089,24.61197544469302,0 120.9835342949551,24.60958961287451,0 120.9838695842952,24.60738886451531,0 120.9838824082021,24.60726246186191,0 120.9838899293213,24.60637763442383,0 120.9838823882405,24.60622414361755,0 120.9838692812609,24.60615416760794,0 120.9836185183754,24.60508196358327,0 120.9835670069385,24.6048765513627,0 120.9833791526995,24.60418582338823,0 120.9833580245681,24.60411358890193,0 120.9779146339899,24.58916334064807,0 120.9771401569386,24.58726715990978,0 120.9770482334614,24.58709108239872,0 120.9768489724033,24.58670958345216,0 120.9768329309424,24.58668249277489,0 120.9766936562571,24.58644997815435,0 120.9766509337713,24.58637999675057,0 120.9764191131811,24.58602783571184,0 120.9745556376384,24.5832579210304,0 120.9718288221601,24.58505644096115,0 120.9658006648606,24.58939582725945,0 120.9597355218304,24.59422477371344,0 120.9490683261865,24.60123697171464,0 120.9494146026753,24.60347850556641,0 120.9494164337239,24.60352590551899,0 120.9493740572039,24.60377192899294,0 120.948893251684,24.60527732958175,0 120.9488509515482,24.60533148712074,0 120.9487498463347,24.60541496811494,0 120.9459106205094,24.60685182239201,0 120.945323054132,24.60712473144541,0 120.9452963543912,24.60713375184914,0 120.9352930685227,24.60797623777176,0 120.9317888477877,24.60801306392473,0 120.9302846399841,24.60802591762586,0 120.930101938115,24.60802357317357,0 120.9295888676607,24.60800979104133,0 120.9293507768796,24.60800065154471,0 120.9292747049248,24.60799610076496,0 120.9289965078896,24.607957598393,0 120.9286956325393,24.60790779713629,0 120.9286152476191,24.60789195853519,0 120.9284456877733,24.60784447653179,0 120.9283804346782,24.60781510203039,0 120.9283261331245,24.60778798805727,0 120.9282218686622,24.60770442302727,0 120.9281391985864,24.60763440902033,0 120.9265842859403,24.60595429308673,0 120.9265494366783,24.60591364716864,0 120.9233322301862,24.60401146777882,0 120.9191599283772,24.60172949731707,0 120.9163001257896,24.60147512625259,0 120.9158543020413,24.60177734481122,0 120.9135215538399,24.60809621929673,0 120.9135006888968,24.60814361096164,0 120.9134691600052,24.60821582271201,0 120.9134498345654,24.60826998564534,0 120.9134411513186,24.6083309228997,0 120.9134643900449,24.60841896881149,0 120.9134870548311,24.60844832529594,0 120.913514967287,24.60847317192799,0 120.9135567618275,24.60850705225851,0 120.9162573762428,24.61029403656172,0 120.916380156651,24.61037310507968,0 120.9146887820009,24.6121395524405,0 120.9118364749591,24.6171579447114,0 120.9116236833928,24.61757540248232,0 120.9115754569138,24.61768597743578,0 120.9115480849446,24.61776722121551,0 120.911542942971,24.61783493292862,0 120.9115462740872,24.6179252248431,0 120.9115564333911,24.61796360431888,0 120.9115735389529,24.61799972817114,0 120.911600969544,24.6180561735992,0 120.9116351838746,24.6181171402354,0 120.9116626287901,24.6181532723343,0 120.9117053416878,24.61820069662582,0 120.9117602387249,24.61825941784792,0 120.9119112467676,24.61836333704978,0 120.9120329643737,24.61842435480028,0 120.9121511391339,24.61847182306657,0 120.9122059126841,24.61849217055089,0 120.9123207149568,24.61850803796574,0 120.9140576493766,24.61889502396863,0 120.9155406078751,24.61947145097911,0 120.9156081774729,24.61950534735184,0 120.9156920818968,24.61957536664105,0 120.9157949370754,24.61969505759705,0 120.915827461078,24.61974924976158,0 120.9158581341359,24.61980795374165,0 120.915883855229,24.61988245541129,0 120.9159060060155,24.61999081353546,0 120.9159439630991,24.62023235677473,0 120.9159964379436,24.62068608452583,0 120.9160082787812,24.62097952957728,0 120.916008150602,24.62117139040621,0 120.9160064064904,24.6212413638496,0 120.9159974046127,24.62131810361809,0 120.9159768256671,24.62139709444167,0 120.9159647585467,24.62144223156983,0 120.9159459019543,24.62148736490139,0 120.9159081945151,24.62156183328547,0 120.9158756020433,24.62160921426612,0 120.9117087881955,24.62713698596836,0 120.9086942226739,24.62755276828468,0 120.9080234691281,24.62694968724206,0 120.9072174479263,24.62624719987316,0 120.9070815598476,24.62614102787806,0 120.9069479735892,24.62605517048681,0 120.9066270685141,24.62591728261086,0 120.9064130599864,24.62585169029003,0 120.9060308592458,24.62574987674631,0 120.9007022899959,24.62476682563708,0 120.9005279187653,24.62474188208604,0 120.900183943608,24.62471005332881,0 120.898066943969,24.62478989345335,0 120.8978988660773,24.624805579915,0 120.8977000549344,24.62484833115293,0 120.8970969513368,24.62501946940591,0 120.8969936662352,24.62506454254314,0 120.8968675091418,24.62515022872218,0 120.8965817782734,24.62541864018405,0 120.8983275488893,24.62676738341668,0 120.89864048978,24.62701588672431,0 120.9030186475547,24.63133229203394,0 120.9037851689373,24.63243429995458,0 120.9089601103899,24.63994272591229,0 120.9116097972972,24.64631187026944,0 120.9106105951278,24.65354560585286,0 120.9106068042586,24.65366749172484,0 120.9106232893901,24.65371490271118,0 120.9106758617591,24.65380522130369,0 120.9208352344028,24.6621444904375,0 120.9209997187089,24.6622709800363,0 120.921085359214,24.66233422655322,0 120.9214459887657,24.66256916368635,0 120.9216237646426,24.66267082913049,0 120.9217324263318,24.6627024865279,0 120.9219003619292,24.66273868968447,0 120.9220253939987,24.66276132534209,0 120.9280764985631,24.6629900640505,0 120.9281291479462,24.6629788038826,0 120.9285268794642,24.66287741880306,0 120.9288594791254,24.66275117361373,0 120.9416912165017,24.66343160467999,0 120.9456345426486,24.67181179342266,0 120.9491579953992,24.67517624442943,0 120.953622886778,24.67839193169905,0 120.9586447388568,24.67937076273901,0 120.9586921372776,24.67937529079498,0 120.9600634917661,24.67887907836081,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣獅潭鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							120.9741453919885,24.5826032580392,0 120.9563269435703,24.55137268459222,0 120.9494333991643,24.52972591553613,0 120.9536709942322,24.516775241157,0 120.957815020144,24.51269310665175,0 120.9656294599327,24.5065576459986,0 120.9648349010996,24.50560490505123,0 120.9645280051809,24.50531590526454,0 120.9642639473225,24.50510366319734,0 120.9636894039018,24.50476719594692,0 120.9632495884355,24.50453685144354,0 120.9630251301337,24.50442167650294,0 120.9626930341811,24.50438999336885,0 120.9617414130972,24.50441458615719,0 120.9552768819035,24.50478976696158,0 120.9216503103394,24.49551007110228,0 120.9209589309583,24.49439688927069,0 120.9202776543173,24.49292706310423,0 120.9194914078871,24.49073034379128,0 120.9194003533954,24.48991768488009,0 120.919507894111,24.48881169038935,0 120.9165576532153,24.4729438777757,0 120.9111037561614,24.45293696976602,0 120.9110306872136,24.45274054648714,0 120.9109386287593,24.45259151224326,0 120.9105885050324,24.45210825304863,0 120.9104828749032,24.45197275373713,0 120.9102093940261,24.45164077444233,0 120.910070490242,24.45148945644197,0 120.9097915781053,24.45121390369904,0 120.9095071131263,24.45094963497267,0 120.9093635663492,24.45082314245479,0 120.906402543855,24.44828643474611,0 120.9061400945248,24.44806732032154,0 120.9058143034655,24.44785267677576,0 120.9041247008348,24.44711574906126,0 120.9032856723689,24.4467675966874,0 120.8999387813056,24.44545395083051,0 120.8995397556307,24.44530470614768,0 120.8993299096248,24.44523910791976,0 120.8991501064187,24.44518481293259,0 120.8989374813539,24.44512598284236,0 120.8987766271424,24.44508298575025,0 120.8983961946466,24.44500147113449,0 120.8931358756589,24.44456219542792,0 120.8927487773259,24.4445325751592,0 120.8925069733463,24.44453917621836,0 120.892018892901,24.44455914232996,0 120.8916918498849,24.44458825475027,0 120.8915118339093,24.44460618413047,0 120.8911040143342,24.4446623216356,0 120.8896698529358,24.44486217782081,0 120.8894953726002,24.44489365208844,0 120.889109099703,24.44497914620875,0 120.8887300571101,24.44507592815237,0 120.8883428334051,24.44519076587072,0 120.8873653323293,24.44551734100459,0 120.8870053695519,24.44564799421987,0 120.8866563346801,24.44578994262658,0 120.8859674566578,24.4461370428531,0 120.8856155864736,24.44634670075756,0 120.8849597136247,24.44682925596367,0 120.8834632709055,24.44801768448637,0 120.8832126322037,24.44824096230962,0 120.8741617845314,24.45730561553649,0 120.8760653843362,24.46044928765618,0 120.8764311334272,24.4610793609499,0 120.8768403915786,24.46182684477833,0 120.8769678825359,24.46211587784195,0 120.8775983395665,24.46412534651953,0 120.8776983586978,24.46445724166193,0 120.877724272941,24.46459495669207,0 120.8777419538014,24.46480263868242,0 120.8777457293414,24.46504191097525,0 120.8777376399752,24.46512090613473,0 120.87771163189,24.46523600785737,0 120.8776814556733,24.46536012990745,0 120.8775933799904,24.46558804218315,0 120.87745680233,24.46591974781882,0 120.8773746198666,24.46610703290981,0 120.8772018524352,24.4664071073734,0 120.8770297265202,24.46668009572976,0 120.8768835606015,24.46688538680138,0 120.8768416083769,24.46691469660431,0 120.8767575880228,24.46693042889099,0 120.8766157809607,24.46693031319465,0 120.876380898674,24.46690980754884,0 120.8749089848091,24.46666481221717,0 120.8747850842526,24.46663987858743,0 120.8745533254648,24.46657648331654,0 120.8742215715745,24.46647463245324,0 120.870656547291,24.4652865657039,0 120.8703249852032,24.46515536028573,0 120.8700072916475,24.46502868119993,0 120.8697478466912,24.46491333948108,0 120.8694940994754,24.46480702812697,0 120.8692742392083,24.46472106156679,0 120.8690405091395,24.46463282728957,0 120.8684939913767,24.46444725862655,0 120.8670826851739,24.4642112701267,0 120.8665815073665,24.46415214062034,0 120.8663658956827,24.46413389181396,0 120.8662079153189,24.46412698155289,0 120.8658524696734,24.46414020972959,0 120.8647353433008,24.46425884767429,0 120.8647020399185,24.46426784594656,0 120.8646927635124,24.4642949240599,0 120.865921863732,24.46964119219361,0 120.8668457830327,24.47285633612088,0 120.8728708436768,24.49045000098621,0 120.8729206697799,24.49057193358313,0 120.8793696507542,24.50339611002453,0 120.8873211865832,24.51190528182503,0 120.8915082812102,24.5120460405855,0 120.8954464448965,24.51563331724789,0 120.8970249472745,24.51733636057976,0 120.8971242926016,24.51747411930924,0 120.9029647242511,24.52626767194419,0 120.9031290607989,24.52653187146041,0 120.9055083204354,24.53070024026377,0 120.906779210248,24.53340068201097,0 120.9077350242254,24.53702187411528,0 120.9077537430688,24.53715506111813,0 120.9078169502607,24.5376065455962,0 120.9078318017809,24.53775553303725,0 120.9077981432555,24.53780968482377,0 120.9049997214995,24.54114865398928,0 120.9042317403449,24.54166733139627,0 120.9038389041724,24.54189506062881,0 120.9036548458481,24.54198071891255,0 120.9035341996501,24.54203255874979,0 120.9034851545672,24.54203026982473,0 120.9061864556323,24.55074939811832,0 120.9083170701896,24.55461959736953,0 120.9086740264316,24.55520895134653,0 120.9103574581169,24.55736335607972,0 120.9105170019587,24.5575033986997,0 120.9107528856435,24.55766831712618,0 120.9109503795101,24.55780160912903,0 120.9138052508378,24.55906731629585,0 120.9141687214191,24.55920295862167,0 120.9143599732072,24.55923015351857,0 120.9160189254968,24.55899408028525,0 120.9223345212982,24.56469922004338,0 120.9235746116219,24.56669072517148,0 120.934335327073,24.58450754204462,0 120.9368500300555,24.58956027518726,0 120.9490683261865,24.60123697171464,0 120.9597355218304,24.59422477371344,0 120.9658006648606,24.58939582725945,0 120.9718288221601,24.58505644096115,0 120.9745556376384,24.5832579210304,0 120.9743316967443,24.58290350043557,0 120.9741453919885,24.5826032580392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>苗栗縣泰安鄉</name>
+			<description><![CDATA[<table width="150">]]></description>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							121.2219233631877,24.50481611852118,0 121.2197361889154,24.500765324395,0 121.2196814156916,24.50065479954431,0 121.2186807939513,24.49850736320703,0 121.2186361938037,24.49839230810344,0 121.2186452602592,24.49828620548076,0 121.2229020773119,24.49482866804139,0 121.2235001012313,24.49439213831905,0 121.2236461340905,24.49432420438183,0 121.2252297373375,24.49361984917424,0 121.2332719007496,24.48750407495599,0 121.2426815071939,24.47815105592011,0 121.2429448320675,24.47785041980837,0 121.2431022555724,24.47762895925349,0 121.24314804872,24.47755439508105,0 121.2432930665857,24.47729458026358,0 121.2435128664633,24.47680666258585,0 121.2438840898355,24.47586479332425,0 121.2439716835604,24.4755644389101,0 121.2443871173907,24.47293633836118,0 121.2444220226183,24.47265186948143,0 121.2444596432818,24.47233805454563,0 121.2445148630821,24.47171948066719,0 121.2457342240171,24.46923002115879,0 121.2485274168864,24.46650773597583,0 121.2580345357239,24.45746283526741,0 121.2612713227131,24.45605778357127,0 121.2589279063521,24.43803544330276,0 121.258880641879,24.42771537117017,0 121.2581729663765,24.42584757575095,0 121.2579758042072,24.42542580611164,0 121.2578079871324,24.42518908041064,0 121.2576073903226,24.42504721499248,0 121.257296313664,24.42498228350874,0 121.256366828805,24.42495902988606,0 121.2517296567184,24.42503679015611,0 121.2510714688871,24.42506948511405,0 121.2499919410868,24.42490649168036,0 121.2461067389219,24.42278201269935,0 121.2459064250242,24.42261981522692,0 121.2456458143507,24.42235162493509,0 121.2453579284884,24.42199995928116,0 121.2438916959426,24.42007688925323,0 121.2436341373548,24.41962811108643,0 121.2433968541161,24.4191431830971,0 121.2382078935016,24.40160575369072,0 121.231940729116,24.38565887227544,0 121.2158699807723,24.37945480887402,0 121.2153602684164,24.37989344645646,0 121.2141879274305,24.38107114765844,0 121.2134973298194,24.38185313702184,0 121.2112436100959,24.38839109206168,0 121.2108960463247,24.38947506709328,0 121.1967098006563,24.39151892091867,0 121.1855142835292,24.38126019919917,0 121.1735304352176,24.36873071042663,0 121.1686713337859,24.36116301939634,0 121.1683639077624,24.36091054548382,0 121.1679758758591,24.36072813692871,0 121.1673766112434,24.3605933614192,0 121.14925921652,24.35796674199716,0 121.1488710742857,24.35792423575621,0 121.1484025444054,24.35787954961246,0 121.14598719931,24.35792478182972,0 121.1454931960259,24.35796137158264,0 121.1449040979703,24.35806802956552,0 121.1441065961837,24.35827871541216,0 121.1436171309907,24.35851619681124,0 121.1428515570639,24.35891420011507,0 121.1415616124217,24.35947069987805,0 121.1410526348114,24.3596179004631,0 121.1409547147362,24.35964282070701,0 121.1408545454945,24.35958422283255,0 121.1312016929008,24.34876468232511,0 121.1268944432391,24.34159017001367,0 121.1218190358192,24.33151778001605,0 121.1090799199241,24.33088414220717,0 121.0940019122828,24.31954454198764,0 121.0933849203182,24.31922213026311,0 121.0919205118681,24.31862935303776,0 121.0875036741779,24.31753943178247,0 121.0871561771088,24.31751254467918,0 121.0868535171629,24.31753529204362,0 121.0866033831769,24.31760089473631,0 121.0864382449449,24.31767999650838,0 121.0863431441812,24.31774776804511,0 121.0859973103855,24.3181294482483,0 121.085751790559,24.31841626226572,0 121.0835164616243,24.32118270183478,0 121.0815733220115,24.32404826832617,0 121.0814682216264,24.32413635844671,0 121.0813381292808,24.32414771407131,0 121.0810156702529,24.32405307999465,0 121.0736859435576,24.32138868822015,0 121.0583951307359,24.3127273081708,0 121.0556008194482,24.31067646944591,0 121.055520885251,24.31059298005176,0 121.0553488439548,24.31040117180647,0 121.0552790663637,24.31031090354809,0 121.0527162959438,24.30467081502717,0 121.0526369360842,24.30447445830178,0 121.0525577132798,24.3042397263663,0 121.0523237765784,24.30323982047417,0 121.0522133138242,24.30264393057533,0 121.0521086269455,24.30186519558506,0 121.0520711079995,24.30121284873154,0 121.0520891133442,24.30044535737743,0 121.0521034093081,24.30002549452352,0 121.0521415221503,24.29986747003075,0 121.052222697057,24.29961913692698,0 121.0522531380651,24.29952431960551,0 121.0522634166679,24.2994453125432,0 121.0522387396796,24.29932568255702,0 121.0520948378327,24.29901196672521,0 121.0516706098277,24.29828300134391,0 121.0513456291862,24.29782036524675,0 121.0494376045371,24.29612124695508,0 121.0492999624523,24.29604679898214,0 121.0491372410174,24.29599945043022,0 121.0490020789164,24.29596789178083,0 121.0454373218941,24.2953685559008,0 121.0448581027158,24.29540935860974,0 121.0381283221642,24.29637957978168,0 121.036979151881,24.29662365394424,0 121.0360077819671,24.29692410911886,0 121.0352871490604,24.29717935421822,0 121.0347193725895,24.29745261762213,0 121.03412868318,24.29781617788269,0 121.0331096106772,24.29882316377887,0 121.0330036020585,24.29902634412822,0 121.032899484277,24.29938753544401,0 121.0327724527902,24.2998525689589,0 121.0325621687851,24.30041919555121,0 121.0320598255675,24.30142606026229,0 121.0316892900215,24.30199949430974,0 121.0312562486452,24.30255939676382,0 121.0307656312614,24.30312156505139,0 121.0293616194711,24.30470646960156,0 121.0047131481609,24.33196162097755,0 121.0041465391907,24.33230023299882,0 121.0035657582324,24.33252372046032,0 121.0029403203532,24.33268851528469,0 121.0022974825858,24.33282396543384,0 121.0018110781794,24.33282171440629,0 121.0013148204096,24.33281269126522,0 121.0008940089768,24.33275174543816,0 121.0004759694503,24.33266145607577,0 121.0001012004854,24.33247410145969,0 120.9998690056333,24.33234091998025,0 120.9855808220228,24.33166079079527,0 120.9681234507995,24.33337593023997,0 120.9592032755979,24.33664687357403,0 120.9358697796805,24.34287570404499,0 120.9356387785941,24.3429162387436,0 120.935250606306,24.34286641281996,0 120.9348525905623,24.34279175239171,0 120.9344573633828,24.34268548783926,0 120.933912183381,24.3425249854152,0 120.933397204795,24.34233063240046,0 120.9196429674256,24.33713897019507,0 120.9191360771681,24.33688588398424,0 120.9171764476082,24.33585098537529,0 120.9170068445033,24.33572448423027,0 120.9167811502293,24.33543317089939,0 120.9166004278716,24.33512833630565,0 120.9164161099469,24.33467000628335,0 120.916369767221,24.33419369125407,0 120.916493271671,24.33346691030894,0 120.9166948673031,24.33269502648339,0 120.9181082145339,24.32858751716521,0 120.919361092003,24.32512098090431,0 120.9196488021309,24.32422498907833,0 120.9204981672625,24.320108122548,0 120.9224955897472,24.30471210756117,0 120.9225041797273,24.3042561368804,0 120.9224940552449,24.30394462439349,0 120.9224416202125,24.30359697280482,0 120.9222819259715,24.30319057487254,0 120.9220969754487,24.30280222473408,0 120.921916271551,24.30251771160317,0 120.9214764625112,24.30203668028625,0 120.9208491972891,24.30149685644854,0 120.9119011048635,24.29406539785905,0 120.9117270690292,24.29398177807036,0 120.9116120993863,24.2939636524681,0 120.9112168463996,24.29392053382851,0 120.9106060827762,24.29389308866662,0 120.9098185361713,24.2939738866282,0 120.9136550269782,24.30145682229317,0 120.913909423129,24.3022312220558,0 120.9144323318125,24.30385903367018,0 120.9144588348958,24.30427890614164,0 120.914336170248,24.3079108373186,0 120.9142285660246,24.30836449375599,0 120.9119017406828,24.31298159937374,0 120.9081667723001,24.32024111655216,0 120.9072935661587,24.321658170783,0 120.9052621371336,24.32466137793041,0 120.9046459797616,24.32835844176407,0 120.9054491393362,24.34030905865729,0 120.9055151150598,24.34083730493913,0 120.905542600873,24.34094115875054,0 120.9056485636664,24.34132722041398,0 120.9068692779947,24.34563714373994,0 120.9069792570996,24.34580650741573,0 120.9072076796271,24.34615201250525,0 120.9083115243367,24.34865376004318,0 120.9091993991508,24.35131112453261,0 120.9095930356633,24.3525799546614,0 120.9096438024239,24.35287343154731,0 120.9098305022608,24.3545349074693,0 120.9098588889727,24.3548983499654,0 120.9098647601051,24.35530917774128,0 120.9098479204512,24.35559810124685,0 120.9081972659536,24.36423123181586,0 120.9119731615717,24.36469395547116,0 120.9122213842488,24.36476181857704,0 120.9123770052641,24.36488380139024,0 120.9125202636165,24.36507123849766,0 120.9126434818922,24.36527898011562,0 120.913549321227,24.36696569074509,0 120.9136279245726,24.36733592901883,0 120.9136988490993,24.36767682065856,0 120.9170352136206,24.39282252934786,0 120.9104969147171,24.42510004752416,0 120.9106095561289,24.42531455575844,0 120.9114158557396,24.42756552395037,0 120.9114764033153,24.42779580184064,0 120.9117199411797,24.42879365625494,0 120.9117458625353,24.42896747870302,0 120.912747380855,24.43690460253294,0 120.9100175030898,24.44363190393857,0 120.9099556239299,24.44374698590909,0 120.9098254671776,24.44387331503164,0 120.9086628034836,24.44482518243031,0 120.9075234335534,24.44572287977123,0 120.9074514264849,24.44577249578332,0 120.906499129499,24.44625496298064,0 120.9041247008348,24.44711574906126,0 120.9058143034655,24.44785267677576,0 120.9061400945248,24.44806732032154,0 120.906402543855,24.44828643474611,0 120.9093635663492,24.45082314245479,0 120.9095071131263,24.45094963497267,0 120.9097915781053,24.45121390369904,0 120.910070490242,24.45148945644197,0 120.9102093940261,24.45164077444233,0 120.9104828749032,24.45197275373713,0 120.9105885050324,24.45210825304863,0 120.9109386287593,24.45259151224326,0 120.9110306872136,24.45274054648714,0 120.9111037561614,24.45293696976602,0 120.9165576532153,24.4729438777757,0 120.919507894111,24.48881169038935,0 120.9194003533954,24.48991768488009,0 120.9194914078871,24.49073034379128,0 120.9202776543173,24.49292706310423,0 120.9209589309583,24.49439688927069,0 120.9216503103394,24.49551007110228,0 120.9552768819035,24.50478976696158,0 120.9617414130972,24.50441458615719,0 120.9626930341811,24.50438999336885,0 120.9630251301337,24.50442167650294,0 120.9632495884355,24.50453685144354,0 120.9636894039018,24.50476719594692,0 120.9642639473225,24.50510366319734,0 120.9645280051809,24.50531590526454,0 120.9648349010996,24.50560490505123,0 120.9656294599327,24.5065576459986,0 120.9735210787121,24.5037263930736,0 120.9772056312658,24.5024335927509,0 120.9783976641118,24.50203874993593,0 120.9789763246703,24.50187856682524,0 120.9792325748466,24.50185151595836,0 120.991213123782,24.50095204720751,0 120.9914695228891,24.50095206191209,0 120.9920261022128,24.50099272183641,0 120.9984251015509,24.50165655468883,0 120.9985609307786,24.50172201869016,0 120.9987880365242,24.50186196746397,0 120.9989856939132,24.50199740276749,0 120.9994471515259,24.50235179376936,0 121.003742405512,24.50630644123397,0 121.0063374493924,24.50866968887165,0 121.0064913369688,24.50880963116966,0 121.0095116720857,24.51024733774557,0 121.0096777375831,24.51029924223881,0 121.0098700121842,24.5103127729392,0 121.0112850178355,24.51038716439557,0 121.0130940996196,24.5101748364527,0 121.0157406820383,24.50955610071149,0 121.0201874080859,24.50717643473707,0 121.0205187222407,24.50699581174016,0 121.0207157445833,24.50684003525477,0 121.025902901643,24.49884632676646,0 121.0259566764426,24.49869056997544,0 121.0257735178118,24.49794119430895,0 121.0256946784393,24.49766582261755,0 121.0393706954683,24.49374655368655,0 121.0613873424717,24.49702576157551,0 121.0616503059698,24.49691279178652,0 121.0665015057786,24.49513427889054,0 121.0667769847298,24.4950890126937,0 121.0669721761671,24.49510924210777,0 121.0673499830881,24.49527610945411,0 121.0700019562,24.49680757416381,0 121.0702772462329,24.49697674136655,0 121.0711376445881,24.49772348555649,0 121.0718828332381,24.4983822479724,0 121.0724598834425,24.49860318229835,0 121.073074866502,24.49883538166236,0 121.0744952152646,24.49924099126541,0 121.074976942476,24.49937618883589,0 121.0752177960195,24.49943024170047,0 121.0839544352353,24.50120208979991,0 121.0841801736537,24.5012358230998,0 121.0846065106368,24.50128524231821,0 121.0850376164689,24.50131886130295,0 121.0855513298808,24.50130728331541,0 121.0860593920378,24.50114447232876,0 121.0862568299284,24.5010540704927,0 121.0864617950116,24.50092077705713,0 121.0866817047876,24.50077167186431,0 121.0870336336749,24.50045997022345,0 121.0871333035424,24.50034027750034,0 121.0872277035747,24.5001777007203,0 121.0880607200266,24.49929012167726,0 121.0902651096245,24.49797058986835,0 121.094108348973,24.49670644353008,0 121.0945405558364,24.49658202316265,0 121.0948820035653,24.49652312123976,0 121.0959589599,24.49639829251382,0 121.0961972980082,24.49638459771075,0 121.0966917087973,24.49635945099511,0 121.096975078668,24.49635926928757,0 121.0977501180741,24.49638134298226,0 121.0980734509723,24.49642402257182,0 121.0983189371343,24.49647803559139,0 121.1087268706949,24.50085672598538,0 121.1088670838214,24.50093337093568,0 121.1089297160434,24.50097169766202,0 121.109037391573,24.50104159544228,0 121.1091725758993,24.5011882192345,0 121.1110132781649,24.50343509000803,0 121.1125887883129,24.5054406121189,0 121.1126638198734,24.50555115883681,0 121.1128112491505,24.50575645998259,0 121.1132237390533,24.50632723159336,0 121.1133313293793,24.5064648441921,0 121.1135542742272,24.50662945407996,0 121.1137395658553,24.506760235251,0 121.1143308674828,24.50710063336514,0 121.1162256035805,24.50805851354822,0 121.1165865509588,24.5082230147741,0 121.1169575259356,24.50838976273018,0 121.1171430609284,24.50844153385597,0 121.1223479119943,24.50935835999009,0 121.1263486581278,24.50830770399792,0 121.1367125160223,24.50663734443756,0 121.1691330430554,24.50258887650742,0 121.1870561718179,24.50554954516797,0 121.1952822973724,24.50704470576572,0 121.1954171109837,24.50708064771307,0 121.1955494584758,24.50711884809851,0 121.1956842967052,24.50717059042705,0 121.1964531401008,24.50761652519004,0 121.2024035949494,24.51173940028229,0 121.2024779982795,24.51179121968698,0 121.2025971831293,24.51188360385805,0 121.2031628116293,24.51249455335269,0 121.2109098362643,24.5123936381509,0 121.2219233631877,24.50481611852118,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
