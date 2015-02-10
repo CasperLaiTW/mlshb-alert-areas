@@ -1,4 +1,4 @@
-<?php namespace App\Http\Controllers;
+<?php namespace Alert\Http\Controllers;
 
 class HomeController extends Controller {
 
@@ -20,7 +20,6 @@ class HomeController extends Controller {
 	 */
 	public function __construct()
 	{
-		$this->middleware('auth');
 	}
 
 	/**
