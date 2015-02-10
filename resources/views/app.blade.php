@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>事故區域警示</title>
 
-	<link href="/css/app.css" rel="stylesheet">
+	<link href="{{ elixir('css/app.css') }}" rel="stylesheet">
 
 	<!-- Fonts -->
 	<link href='//fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
@@ -52,7 +52,7 @@
 	@yield('content')
 
 	<!-- Scripts -->
-	<script src="/js/bundle.js"></script>
+	<script src="{{ elixir('js/bundle.js') }}"></script>
 
 </body>
 </html>

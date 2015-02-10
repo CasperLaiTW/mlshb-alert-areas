@@ -13,10 +13,12 @@ require("laravel-elixir-webpack");
  */
 
 elixir(function(mix) {
-    mix.less('app.less');
-    mix.webpack('app.js', {
+    mix
+    .less('app.less')
+    .webpack('app.js', {
       output: {
         filename: "bundle.js"
       }
-    });
+    })
+    .version(['js/bundle.js', 'css/app.css']);
 });
