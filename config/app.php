@@ -145,6 +145,10 @@ return [
 		'Alert\Providers\EventServiceProvider',
 		'Alert\Providers\RouteServiceProvider',
 
+		/*
+		 * Composer Package Providers...
+		 */
+		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
 	],
 
 	/*
